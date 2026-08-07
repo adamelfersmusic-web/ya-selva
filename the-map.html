@@ -1,0 +1,282 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>THE MAP — facilitator network</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#0A0908;--panel:#141110;--panel2:#191512;--amber:#E3A03C;--ember:#C0451D;
+--moss:#5E6E48;--paper:#EBE4D6;--dim:#877D70;--line:rgba(227,160,60,.22)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--ink);color:#DFD6C8;font-family:'Space Mono',ui-monospace,monospace;font-size:13px;line-height:1.5}
+.wrap{max-width:1400px;margin:0 auto;padding:0 20px}
+h1{font-family:'Anton',Impact,sans-serif;text-transform:uppercase;font-size:clamp(32px,6vw,60px);
+line-height:.9;color:var(--paper)}
+h1 span{display:block;font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.28em;
+color:var(--amber);margin-top:12px}
+h2{font-family:'Anton',sans-serif;text-transform:uppercase;font-size:17px;letter-spacing:.05em;
+color:var(--amber);margin:0 0 12px}
+header{padding:44px 0 26px;border-bottom:2px solid var(--ember)}
+section{padding:28px 0;border-bottom:1px solid rgba(255,255,255,.07)}
+p{color:#B4AA9B;max-width:74ch}
+pre{background:var(--panel);border-left:3px solid var(--amber);padding:14px 16px;
+font-size:11.5px;line-height:1.7;color:#CBC1B1;white-space:pre-wrap;margin:10px 0}
+.hint{color:var(--dim);font-size:11px;margin-top:6px;line-height:1.6}
+.hint b{color:#C3B9A9}
+.terrain{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 4px}
+.terrain span{font-size:11px;letter-spacing:.13em;text-transform:uppercase;padding:9px 14px;
+border:1px solid var(--line);background:var(--panel2);color:var(--amber)}
+.terrain span.o{color:var(--dim);border-style:dashed}
+
+/* stats */
+.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:18px 0 4px}
+.stat{background:var(--panel2);border:1px solid var(--line);padding:14px;text-align:center}
+.stat .n{font-family:'Anton',sans-serif;font-size:30px;color:var(--amber);line-height:1}
+.stat .l{font-size:9px;letter-spacing:.18em;text-transform:uppercase;color:var(--dim);margin-top:7px}
+.stat.t1 .n{color:var(--moss)}
+.stat.t3 .n{color:var(--dim)}
+
+/* controls */
+.bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:18px 0}
+button{font-family:'Space Mono',monospace;font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+padding:11px 18px;border:1px solid var(--line);background:transparent;color:var(--amber);cursor:pointer}
+button:hover,button:focus{background:var(--amber);color:var(--ink);outline:none}
+button.pri{background:var(--amber);color:var(--ink);border-color:var(--amber)}
+button.pri:hover{background:var(--paper);border-color:var(--paper)}
+button.del{border-color:rgba(192,69,29,.5);color:var(--ember);padding:6px 10px;font-size:10px}
+button.del:hover{background:var(--ember);color:#fff}
+select.filter{font-family:'Space Mono',monospace;font-size:11px;background:var(--panel2);
+color:var(--amber);border:1px solid var(--line);padding:10px 12px}
+
+/* table */
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin-top:6px}
+table{width:100%;border-collapse:collapse;min-width:1180px}
+th{text-align:left;font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--dim);
+padding:0 8px 10px 0;border-bottom:1px solid var(--line);font-weight:400;white-space:nowrap}
+td{padding:0 8px 0 0;border-bottom:1px solid rgba(255,255,255,.06);vertical-align:middle}
+tr.t1{background:rgba(94,110,72,.09)}
+tr.t2{background:rgba(227,160,60,.05)}
+input,select{font-family:'Space Mono',monospace;font-size:12px;background:transparent;color:#E5DCCE;
+border:0;padding:11px 6px;width:100%;min-width:70px}
+input:focus,select:focus{outline:1px solid var(--amber);background:var(--panel2)}
+select{color:#C3B9A9;cursor:pointer}
+select option{background:var(--panel2);color:#E5DCCE}
+.tier{font-family:'Anton',sans-serif;font-size:14px;text-align:center;letter-spacing:.04em}
+.tier.T1{color:var(--moss)}.tier.T2{color:var(--amber)}.tier.T3{color:var(--dim)}
+td.act{text-align:right;padding-right:0}
+.empty{padding:36px 0;text-align:center;color:var(--dim);font-size:12px}
+footer{padding:40px 0 70px;color:var(--dim);font-size:11px;letter-spacing:.1em;text-align:center}
+.warn{border-left:3px solid var(--ember);background:rgba(192,69,29,.08);padding:14px 16px;
+margin-top:16px;font-size:11.5px;color:#CFC4B4}
+@media(max-width:800px){.stats{grid-template-columns:1fr 1fr}}
+</style></head><body>
+
+<header class="wrap">
+  <h1>The Map<span>Facilitator network · brain-dump → tier → export</span></h1>
+</header>
+
+<div class="wrap">
+
+<section>
+  <h2>The terrain</h2>
+  <p><b>This community already exists.</b> It isn't a market to build — it's a network that's
+  already there, that Ya Selva is already part of, and that can be mapped from relationships
+  you already have.</p>
+  <div class="terrain">
+    <span>Song Circles</span><span>Ecstatic Dance</span><span>Drum Circles</span><span>Cacao</span>
+    <span>Musicians</span><span>Producers</span><span>Dancers</span><span>Retreats</span>
+    <span>Conscious Community</span><span>Co-Ops</span><span class="o">Other</span>
+  </div>
+  <p class="hint" style="margin-top:14px">These are not ten separate scenes — they're one
+  overlapping population. The person running the cacao ceremony knows the ecstatic-dance host,
+  who books the drum-circle facilitator, who lives at the co-op. Map one city and a few calls
+  give you most of it. <b>The map is a graph, not a list</b> — which is what makes it tourable.</p>
+  <pre>HOSTS         Song Circles · Ecstatic Dance · Drum Circles · Cacao
+              Retreats · Conscious Community · Co-Ops
+              → they run the Gathering, they bring the room
+
+CONTRIBUTORS  Musicians · Producers · Dancers
+              → they run breakout rooms, or fill them</pre>
+  <p class="hint">⚠ <b>Producers are the constraint, not hosts.</b> You need 3–4 per city who
+  can run a room and record cleanly. Hosts you have in abundance. A city with a great host and
+  no producers can run an Underpass — not a Moonlight.</p>
+  <p class="hint"><b>Co-Ops are the sleeper</b> — the only entry that's a <i>building</i> rather
+  than a person. Multiple rooms, often cheap or free, resident community. &nbsp;·&nbsp;
+  <b>Cacao is the freshness indicator</b> — newest of these practices, so it maps where things
+  are <i>currently</i> active.</p>
+</section>
+
+<section>
+  <h2>The method</h2>
+  <pre>1. Brain-dump. No structure. Every name that surfaces. DON'T FILTER.
+2. Go city by city — geography jogs memory better than category.
+3. Scan Instagram following, old event pages, festival lineups, tagged photos.
+   Most of the map is already in your phone.
+4. Then fill the columns. Then read the tiers.</pre>
+  <p class="hint">Filtering while dumping is what turns a 20-minute task into a three-week one that never finishes.</p>
+</section>
+
+<section>
+  <h2>Tiering — automatic</h2>
+  <pre>TIER 1   ≤5 hrs drive  +  close/warm   →  DON'T MESSAGE. SHOW UP.
+TIER 2   >5 hrs drive  +  close/warm   →  trailer + warm reach-out
+TIER 3   cold or unknown               →  needs an intro or press first</pre>
+  <p class="hint">Producers are the constraint, not hosts. A city with a great host and no producers can run an Underpass, not a Moonlight.</p>
+</section>
+
+<section>
+  <div class="stats">
+    <div class="stat"><div class="n" id="s-total">0</div><div class="l">Names</div></div>
+    <div class="stat"><div class="n" id="s-cities">0</div><div class="l">Cities</div></div>
+    <div class="stat t1"><div class="n" id="s-t1">0</div><div class="l">Tier 1 · show up</div></div>
+    <div class="stat"><div class="n" id="s-t2">0</div><div class="l">Tier 2 · message</div></div>
+    <div class="stat t3"><div class="n" id="s-prod">0</div><div class="l">Producers</div></div>
+  </div>
+
+  <div class="bar">
+    <button class="pri" id="add">+ Add row</button>
+    <button id="add5">+ 5 rows</button>
+    <select class="filter" id="filter">
+      <option value="all">Show all</option>
+      <option value="T1">Tier 1 only</option>
+      <option value="T2">Tier 2 only</option>
+      <option value="T3">Tier 3 only</option>
+      <option value="HOST">Hosts only</option>
+      <option value="CONTRIBUTOR">Contributors only</option>
+    </select>
+    <button id="sort">Sort by tier</button>
+    <button id="csv">Export CSV</button>
+    <button id="clear">Clear all</button>
+  </div>
+
+  <div class="warn"><b>Nothing is saved.</b> This is a scratchpad — dump, then <b>Export CSV</b>
+  before you close the tab. Take the CSV into a sheet and keep it there.</div>
+
+  <div class="scroll">
+    <table>
+      <thead><tr>
+        <th style="width:38px">Tier</th><th>City</th><th style="width:60px">ST</th><th>Name</th>
+        <th>What they run</th><th>Role</th><th>Relationship</th><th>Last contact</th>
+        <th style="width:74px">Room</th><th style="width:74px">Drive hrs</th><th>Notes</th><th></th>
+      </tr></thead>
+      <tbody id="body"></tbody>
+    </table>
+  </div>
+  <div class="empty" id="empty">No rows yet. Hit <b>+ Add row</b> and start dumping.</div>
+</section>
+
+<section>
+  <h2>Done ≠ complete</h2>
+  <pre>[ ] enough names to see if this is a 5-city or a 30-city thing
+[ ] at least 3 names in TIER 1
+[ ] ONE name circled as the first call</pre>
+  <p class="hint">The map grows forever. It only has to be good enough to make one call.</p>
+</section>
+
+</div>
+<footer>YA SELVA · BREAK THIS LOOP · THE MAP</footer>
+
+<script>
+const RUNS=['','Song Circles','Ecstatic Dance','Drum Circles','Cacao','Musicians','Producers','Dancers','Retreats','Conscious Community','Co-Ops','Other'];
+const ROLES=['','HOST','CONTRIBUTOR','BOTH'];
+const RELS=['','close','warm','know of','cold intro'];
+const COLS=['city','st','name','runs','role','rel','last','room','drive','notes'];
+let rows=[];
+
+function tier(r){
+  const warm = r.rel==='close'||r.rel==='warm';
+  const d = parseFloat(r.drive);
+  if(!warm) return 'T3';
+  if(!isNaN(d) && d<=5) return 'T1';
+  if(!isNaN(d)) return 'T2';
+  return 'T3';
+}
+function sel(opts,val,cls){
+  return '<select data-k="'+cls+'">'+opts.map(o=>
+    '<option value="'+o+'"'+(o===val?' selected':'')+'>'+(o||'—')+'</option>').join('')+'</select>';
+}
+function render(){
+  const f=document.getElementById('filter').value;
+  const b=document.getElementById('body'); b.innerHTML='';
+  let shown=0;
+  rows.forEach((r,i)=>{
+    const t=tier(r);
+    if(f!=='all'){
+      if(['T1','T2','T3'].includes(f) && t!==f) return;
+      if(['HOST','CONTRIBUTOR'].includes(f) && r.role!==f && r.role!=='BOTH') return;
+    }
+    shown++;
+    const tr=document.createElement('tr');
+    tr.className=t.toLowerCase(); tr.dataset.i=i;
+    tr.innerHTML=
+      '<td class="tier '+t+'">'+t.replace('T','')+'</td>'+
+      '<td><input data-k="city" value="'+esc(r.city)+'" placeholder="city"></td>'+
+      '<td><input data-k="st" value="'+esc(r.st)+'" placeholder="OH"></td>'+
+      '<td><input data-k="name" value="'+esc(r.name)+'" placeholder="name"></td>'+
+      '<td>'+sel(RUNS,r.runs,'runs')+'</td>'+
+      '<td>'+sel(ROLES,r.role,'role')+'</td>'+
+      '<td>'+sel(RELS,r.rel,'rel')+'</td>'+
+      '<td><input data-k="last" value="'+esc(r.last)+'" placeholder="2019?"></td>'+
+      '<td><input data-k="room" value="'+esc(r.room)+'" placeholder="40"></td>'+
+      '<td><input data-k="drive" value="'+esc(r.drive)+'" placeholder="3"></td>'+
+      '<td><input data-k="notes" value="'+esc(r.notes)+'" placeholder="mutuals, anything"></td>'+
+      '<td class="act"><button class="del">×</button></td>';
+    b.appendChild(tr);
+  });
+  document.getElementById('empty').style.display = shown?'none':'block';
+  stats();
+}
+function esc(s){return (s||'').replace(/"/g,'&quot;').replace(/</g,'&lt;')}
+function stats(){
+  const named = rows.filter(r=>r.name.trim());
+  document.getElementById('s-total').textContent = named.length;
+  document.getElementById('s-cities').textContent = new Set(named.map(r=>r.city.trim().toLowerCase()).filter(Boolean)).size;
+  document.getElementById('s-t1').textContent = named.filter(r=>tier(r)==='T1').length;
+  document.getElementById('s-t2').textContent = named.filter(r=>tier(r)==='T2').length;
+  document.getElementById('s-prod').textContent = named.filter(r=>r.runs==='Producers').length;
+}
+function blank(){return {city:'',st:'',name:'',runs:'',role:'',rel:'',last:'',room:'',drive:'',notes:''}}
+function addRows(n){for(let i=0;i<n;i++) rows.push(blank()); render();
+  const inputs=document.querySelectorAll('#body input[data-k="city"]');
+  if(inputs.length) inputs[inputs.length-n].focus();}
+
+document.getElementById('add').onclick=()=>addRows(1);
+document.getElementById('add5').onclick=()=>addRows(5);
+document.getElementById('filter').onchange=render;
+document.getElementById('sort').onclick=()=>{
+  const o={T1:0,T2:1,T3:2};
+  rows.sort((a,b)=>o[tier(a)]-o[tier(b)] || a.city.localeCompare(b.city));
+  render();
+};
+document.getElementById('clear').onclick=()=>{
+  if(rows.length && !confirm('Clear all rows? Export first if you want to keep them.')) return;
+  rows=[]; render();
+};
+document.getElementById('body').addEventListener('input',e=>{
+  const tr=e.target.closest('tr'); if(!tr) return;
+  const k=e.target.dataset.k; if(!k) return;
+  rows[+tr.dataset.i][k]=e.target.value;
+  if(k==='rel'||k==='drive'){ render(); } else { stats(); }
+});
+document.getElementById('body').addEventListener('change',e=>{
+  const tr=e.target.closest('tr'); if(!tr) return;
+  const k=e.target.dataset.k; if(!k) return;
+  rows[+tr.dataset.i][k]=e.target.value; render();
+});
+document.getElementById('body').addEventListener('click',e=>{
+  if(!e.target.classList.contains('del')) return;
+  rows.splice(+e.target.closest('tr').dataset.i,1); render();
+});
+document.getElementById('csv').onclick=()=>{
+  const head=['tier','city','state','name','what_they_run','role','relationship','last_contact','room_size','drive_hours','notes'];
+  const q=s=>'"'+String(s||'').replace(/"/g,'""')+'"';
+  const lines=[head.join(',')].concat(
+    rows.filter(r=>r.name.trim()).map(r=>[tier(r),r.city,r.st,r.name,r.runs,r.role,r.rel,r.last,r.room,r.drive,r.notes].map(q).join(','))
+  );
+  const blob=new Blob([lines.join('\n')],{type:'text/csv'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='the-map-'+new Date().toISOString().slice(0,10)+'.csv';
+  a.click(); URL.revokeObjectURL(a.href);
+};
+addRows(6);
+</script></body></html>
