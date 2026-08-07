@@ -1,0 +1,440 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ya Selva — Design Sheet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#0A0908;--panel:#141110;--panel2:#191512;--amber:#E3A03C;--ember:#C0451D;
+--moss:#5E6E48;--paper:#EBE4D6;--red:#C4281C;--gold:#C9922E;--dim:#8A8073;--line:rgba(227,160,60,.2)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--ink);color:#DFD6C8;font-family:'Space Mono',ui-monospace,monospace;font-size:13px;line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+h1{font-family:'Anton',Impact,sans-serif;text-transform:uppercase;font-size:clamp(34px,7vw,72px);
+line-height:.88;letter-spacing:.01em;color:var(--paper)}
+h1 span{display:block;font-size:clamp(11px,1.6vw,15px);font-family:'Space Mono',monospace;
+letter-spacing:.3em;color:var(--amber);margin-top:14px;text-transform:uppercase}
+h2{font-family:'Anton',sans-serif;text-transform:uppercase;font-size:clamp(20px,3vw,30px);
+color:var(--amber);letter-spacing:.02em;margin-bottom:4px}
+h3{font-family:'Anton',sans-serif;text-transform:uppercase;font-size:15px;letter-spacing:.06em;
+color:var(--paper);margin:30px 0 12px;padding-bottom:7px;border-bottom:1px solid var(--line)}
+h3:first-of-type{margin-top:0}
+header{padding:56px 0 30px;border-bottom:2px solid var(--ember)}
+nav{position:sticky;top:0;z-index:20;background:rgba(10,9,8,.95);backdrop-filter:blur(8px);
+border-bottom:1px solid var(--line);padding:11px 0;margin-bottom:0}
+nav .wrap{display:flex;gap:20px;flex-wrap:wrap;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase}
+nav a{color:var(--dim);text-decoration:none;padding:3px 0;border-bottom:1px solid transparent}
+nav a:hover,nav a:focus{color:var(--amber);border-color:var(--amber);outline:none}
+section{padding:44px 0;border-bottom:1px solid rgba(255,255,255,.07)}
+.sec-n{font-size:10px;letter-spacing:.3em;color:var(--ember);margin-bottom:6px}
+table{width:100%;border-collapse:collapse;margin:0 0 6px;font-size:12.5px}
+th{text-align:left;font-size:9.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--dim);
+padding:0 12px 9px 0;border-bottom:1px solid var(--line);font-weight:400;vertical-align:bottom}
+td{padding:11px 12px 11px 0;border-bottom:1px solid rgba(255,255,255,.06);vertical-align:top;color:#B9AF9F}
+td:first-child{color:var(--paper)}
+td b,th b{color:var(--amber);font-weight:700}
+.hl{color:var(--amber)!important}
+.hl2{color:var(--ember)!important}
+.ok{color:var(--moss)!important}
+pre{background:var(--panel);border-left:3px solid var(--amber);padding:16px 18px;overflow-x:auto;
+font-size:12px;line-height:1.7;color:#CCC2B2;white-space:pre;margin:0 0 6px}
+pre.red{border-color:var(--red)}
+pre.moss{border-color:var(--moss)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.card{background:var(--panel2);border:1px solid var(--line);padding:16px}
+.card .k{font-size:9.5px;letter-spacing:.2em;color:var(--dim);text-transform:uppercase}
+.card .v{font-family:'Anton',sans-serif;text-transform:uppercase;font-size:17px;color:var(--amber);margin:6px 0 7px}
+.card p{font-size:11.5px;color:#A79E91;line-height:1.5}
+.tag{display:inline-block;font-size:9px;letter-spacing:.18em;padding:3px 7px;border-radius:2px;
+background:var(--moss);color:#0A0908;margin-left:8px;vertical-align:middle}
+.tag.r{background:var(--red);color:#fff}
+footer{padding:50px 0 70px;text-align:center;color:var(--dim);font-size:11.5px;letter-spacing:.1em}
+@media(max-width:800px){.grid2,.grid4{grid-template-columns:1fr}
+table{font-size:11.5px}td,th{padding-right:8px}pre{font-size:10.5px}}
+@media print{body{background:#fff;color:#000}nav{display:none}pre{background:#f4f4f4;color:#000}}
+</style></head><body>
+
+<header class="wrap">
+  <h1>Ya Selva<span>Design Sheet · 2026-08-07 · every diagram, no prose</span></h1>
+</header>
+
+<nav><div class="wrap">
+  <a href="#id">Identity</a><a href="#struct">Structure</a><a href="#night">The Night</a>
+  <a href="#capture">Capture</a><a href="#growth">Growth</a><a href="#rules">Rules</a>
+  <a href="#next">Next</a>
+</div></nav>
+
+<div class="wrap">
+
+<section id="id"><div class="sec-n">01</div><h2>Identity</h2>
+
+<h3>The lineage — one vision since 17</h3>
+<table>
+<tr><th>age</th><th>form it took</th></tr>
+<tr><td class="hl">~17</td><td>participatory art — an ensemble, music × performance art</td></tr>
+<tr><td class="hl">~22–30</td><td>public performance project — town squares, horns, props, a sign</td></tr>
+<tr><td class="hl">~25</td><td>"The Universal Hum" — sampling insects &amp; world sound. Baraka × 1 Giant Leap</td></tr>
+<tr><td class="hl">20 yrs</td><td>200+ facilitated events · 100+ workshops</td></tr>
+<tr><td class="hl">pre-BTL</td><td>vision board: laptop · Push · guitar · mic · a bag · go anywhere</td></tr>
+<tr><td class="hl">BTL v1</td><td>a monthly curated loop pack. ~4 hrs to make.</td></tr>
+<tr><td class="hl">BTL v2</td><td>global, online, infinitely remixable. "Burning Man but online"</td></tr>
+<tr><td class="hl">now</td><td>the synthesis</td></tr>
+</table>
+
+<h3>Gift / anti-gift</h3>
+<pre>GIFT       being in the room with people      ← 20 yrs of evidence
+GIFT       vision / seeing the whole shape
+ANTI-GIFT  execution — "eats me alive"
+
+RULE       any model where Adam is the EXECUTOR fails.
+           any model where he is in ROOMS and DIRECTING succeeds.</pre>
+
+<h3>The archetype</h3>
+<table>
+<tr><td>Archetype</td><td>Explorer · Traveler</td></tr>
+<tr><td>Lineage</td><td>Alan Lomax × Xavier Rudd · Paul Simon &amp; Whitman with a Push</td></tr>
+<tr><td>Template</td><td><b>Graceland</b> — travel, record local players, write your own songs from it</td></tr>
+<tr><td>Carries</td><td>sampler · acoustic guitar · charango · voice</td></tr>
+<tr><td>Doing</td><td>looking for what's true. <b>Not building anything.</b></td></tr>
+<tr><td>Result</td><td>everywhere he searches, he accidentally creates <b>the Village</b></td></tr>
+</table>
+
+<h3>Look audit</h3>
+<div class="grid2">
+<div><table><tr><th class="ok">crosses over</th></tr>
+<tr><td>the gear — MPC/Push is legible everywhere</td></tr>
+<tr><td>utility silhouette — cargo, boots, olive</td></tr>
+<tr><td>the sprayed mark — street, not ceremony</td></tr>
+<tr><td class="hl">Greyhound frame — most scene-free image</td></tr></table></div>
+<div><table><tr><th class="hl2">scene-coded</th></tr>
+<tr><td>wide-brim hat — most festival-coded, most recognizable. tradeoff.</td></tr>
+<tr><td>tapestry vests — lean harder hippie</td></tr>
+<tr><td>moss on gear — tips woodland when overdone</td></tr>
+<tr><td class="hl2">GAP: not one other human in any frame</td></tr></table></div>
+</div>
+</section>
+
+<section id="struct"><div class="sec-n">02</div><h2>Structure</h2>
+
+<h3>The four named things</h3>
+<table>
+<tr><th>name</th><th>what it is</th><th>belongs to</th><th>presence</th></tr>
+<tr><td class="hl">BREAK THIS LOOP</td><td>the movement, platform, archive</td><td>everyone</td><td class="ok">runs without him</td></tr>
+<tr><td class="hl">MOONLIGHT<br><span style="color:var(--dim);font-size:10.5px">or ECSTATIC EARTH</span></td><td>the gathering — a BTL night in a city <span class="tag r">NAME UNDECIDED</span></td><td>BTL</td><td>needs him in the room</td></tr>
+<tr><td class="hl">UNDERPASS</td><td>the secret pop-up, location undisclosed</td><td>Ya Selva</td><td>needs him in the room</td></tr>
+<tr><td class="hl">YA SELVA</td><td>the artist project, the character</td><td>him</td><td>needs him on stage</td></tr>
+<tr><td class="hl">THE VILLAGE</td><td>his audience — list, drops, following</td><td>him</td><td>—</td></tr>
+</table>
+
+<h3>⚠ Open — the event name</h3>
+<pre class="red">MOONLIGHT        proven. 5 people in a creek → ~150 in two months.
+                 full-moon cadence built in. not scene-coded.
+                 carries existing community memory.
+
+ECSTATIC EARTH   already named in the vault. describes the FEELING.
+                 more ceremonial. more scene-coded.
+                 stronger inside conscious-movement rooms.
+
+STILL OPEN. one of these is the gathering. pick one, retire the rest.
+Also floating: THE VILLAGE · DEEP PULSE · MOONLIGHT VILLAGE · EARTH CHOIR VILLAGE</pre>
+
+<h3>The definition</h3>
+<pre>MOONLIGHT   needs you in the room
+YA SELVA    needs you on stage
+BTL         runs without you — THAT IS ITS DEFINITION
+
+the schism was never earthy vs urban.
+it was PRESENCE-DEPENDENT vs PRESENCE-INDEPENDENT.</pre>
+
+<h3>Claims → demonstrates</h3>
+<table>
+<tr><th>BTL claims</th><th>Ya Selva demonstrates</th></tr>
+<tr><td>anyone, anywhere, can add their piece</td><td>a guy who shows up anywhere and makes something</td></tr>
+<tr><td>strangers become collaborators</td><td>ten people gather under a bridge and sing</td></tr>
+<tr><td>found sound, any culture, any medium</td><td>street lamps as percussion, field samples, loops</td></tr>
+<tr><td>it travels</td><td>he wanders</td></tr>
+</table>
+<pre>a participant is not a brand. a participant is PROOF.
+YA SELVA is a PERSON. BREAK THIS LOOP is a PLACE.</pre>
+
+<h3>The loop</h3>
+<pre>YA SELVA collects   →  the archive
+YA SELVA sings      →  his songs, made from what he found
+BREAK THIS LOOP     →  what happens when everyone else
+                       gets to do the same thing with the same material</pre>
+
+<h3>The sandbox</h3>
+<table>
+<tr><th></th><th>Ya Selva</th><th>Break This Loop</th></tr>
+<tr><td>scale</td><td>one town, a few musicians</td><td>20+ countries, four weeks</td></tr>
+<tr><td>coordination</td><td class="ok">near zero</td><td class="hl2">high — the thing that stalled it</td></tr>
+<tr><td>cycle</td><td>a week</td><td>months</td></tr>
+<tr><td>purpose</td><td><b>test the mechanic</b></td><td><b>run it at scale</b></td></tr>
+</table>
+
+<h3>Permission asymmetry</h3>
+<pre class="red">BREAK THIS LOOP  →  requires PERMISSION.  collaborators, coordination, waiting.
+YA SELVA         →  requires NOTHING.     bag, Push, guitar, mic. go.
+
+^ this is why BTL went dim. not scope, not money, not discipline.</pre>
+
+<h3>Two formats</h3>
+<table>
+<tr><th></th><th>MOONLIGHT</th><th>UNDERPASS</th></tr>
+<tr><td>job</td><td>production engine</td><td>marketing engine</td></tr>
+<tr><td>structure</td><td>full ritual — circle, rooms, set</td><td>appears &amp; disappears</td></tr>
+<tr><td>access</td><td>ticketed / announced</td><td>list-only, undisclosed</td></tr>
+<tr><td>output</td><td>stems for the archive</td><td>footage, mystique, list growth</td></tr>
+</table>
+
+<h3>Two tour types</h3>
+<table>
+<tr><th></th><th>VILLAGE NIGHTS</th><th>DOCUMENTARY TOURS</th></tr>
+<tr><td>frequency</td><td>monthly, ongoing</td><td>1–2 per year</td></tr>
+<tr><td>length</td><td>one night</td><td>~2 weeks</td></tr>
+<tr><td>scope</td><td>domestic, city by city</td><td>international</td></tr>
+<tr><td>job</td><td>volume + community + tickets</td><td><b>depth</b> — traditions, master players</td></tr>
+</table>
+</section>
+
+<section id="night"><div class="sec-n">03</div><h2>The Night</h2>
+
+<h3>Run of show</h3>
+<table>
+<tr><th>time</th><th>what</th><th>capture</th></tr>
+<tr><td class="hl">16:30</td><td>Load-in. Click distributed, drone patch in every room.</td><td>—</td></tr>
+<tr><td class="hl">18:15</td><td>Producer briefing. Tempo, key, take length, file naming.</td><td>—</td></tr>
+<tr><td class="hl">18:45</td><td>Soundcheck. Kit at circle volume.</td><td>—</td></tr>
+<tr><td class="hl">19:00</td><td>Doors — Village tier only. ~30 people.</td><td>B-roll</td></tr>
+<tr><td class="hl">19:20</td><td><b>THE GATHERING</b> — circle, theme, prompts. <b>Local host runs this.</b></td><td>room + wide</td></tr>
+<tr><td class="hl">20:05</td><td><b>ROOMS OPEN</b> — 7–8 per room, 6–10 min each</td><td class="hl2">ISOLATED STEMS</td></tr>
+<tr><td class="hl">21:30</td><td>Rooms close · rough stack (15 min, no editing)</td><td>—</td></tr>
+<tr><td class="hl">21:45</td><td>Closing circle · groups of 3 · <b>then the stack plays once</b></td><td>room + wide</td></tr>
+<tr><td class="hl">22:00</td><td>Show doors. Room doubles.</td><td>—</td></tr>
+<tr><td class="hl">22:15</td><td><b>YA SELVA SET</b> — previous-city footage in visuals</td><td>multi-cam</td></tr>
+<tr><td class="hl">~22:50</td><td><b>THE HOOK DROP</b> — 3 takes × 16 bars</td><td class="hl2">MULTI-CITY ASSET</td></tr>
+<tr><td class="hl">23:15</td><td>Community jam. Percussion out.</td><td>loose</td></tr>
+<tr><td class="hl">00:00</td><td>Cards consolidated before anyone leaves.</td><td>—</td></tr>
+<tr><td class="hl">+3 days</td><td>Cuts back to contributors. By name.</td><td>—</td></tr>
+<tr><td class="hl">+7 days</td><td>Public version drops. Contributors tagged.</td><td>—</td></tr>
+</table>
+
+<h3>Inside a breakout room</h3>
+<pre>1. producer plays the bed at tempo + key, drone under it     0:30
+2. contributor hears it once through headphones               0:30
+3. take 1 — 8 or 16 bars                                      0:30
+4. takes 2 &amp; 3 — different feel each time                     2:00
+5. PLAY IT BACK TO THEM. they hear themselves in the song.    1:00
+6. name, contact, consent. reset.                             1:00
+                                                    ≈ 6–10 min</pre>
+
+<h3>The rooms are the stems</h3>
+<div class="grid4">
+<div class="card"><div class="k">Room 01</div><div class="v">Voices</div><p>hooks, harmonies, chants, whispers</p></div>
+<div class="card"><div class="k">Room 02</div><div class="v">Percussion</div><p>hands, shakers, found objects, body</p></div>
+<div class="card"><div class="k">Room 03</div><div class="v">Melodic</div><p>horn, strings, keys, charango</p></div>
+<div class="card"><div class="k">Room 04</div><div class="v">Texture</div><p>spoken word, poetry, field, movement</p></div>
+</div>
+<pre style="margin-top:14px">solves 4 problems at once:
+  density · self-selection · the +7 day build · 3-minute playback</pre>
+
+<h3>The hook drop <span class="tag">PROVEN — PERENNIAL · SISTER STONE · THANE OF EARTH</span></h3>
+<pre class="moss">beat cuts → rim click on 2 &amp; 4 → drone underneath
+click in one ear, one out to hear the room
+30+ people at full volume · 3 takes × 16 bars
+omni rolling the whole time — never stop between takes
+
+PROVEN AT 20 PEOPLE: one AirPod, hands, foot stomp. synced perfectly.
+THE STOMP = the conductor AND the slate. one motion, two jobs.</pre>
+<table>
+<tr><th>gotcha</th><th>fix</th></tr>
+<tr><td>click fixes tempo, NOT pitch</td><td>quiet drone under it holding the root</td></tr>
+<tr><td>phone clocks drift</td><td>one recorder = clock master · short takes · slate</td></tr>
+<tr><td>—</td><td class="hl">hook must be learnable by strangers in 60 seconds</td></tr>
+</table>
+
+<h3>Instrument doctrine — treat as law</h3>
+<pre class="red">PERCUSSION → hand out freely.  forgiving. bad player still in the pocket.
+MELODIC    → never hand out.   one untrained horn wrecks a room in 8 bars.
+VOICE      → the universal.    nobody can bring it badly.</pre>
+<table>
+<tr><td>Pass out at ONE point in the set</td><td>never at the door</td></tr>
+<tr><td>Pre-select the melodic players</td><td>real chops only, per town</td></tr>
+<tr><td>Selected players stand IN the crowd</td><td>sound from every direction</td></tr>
+<tr><td>Stage in the CENTRE</td><td>everything radiates</td></tr>
+</table>
+
+<h3>Lean version — an UNDERPASS night</h3>
+<pre>20:00  location goes out to THE VILLAGE list only
+21:00  play — 30-40 min
+21:35  THE HOOK DROP — 3 takes
+21:50  hang, jam, gone
+       → multi-city asset + footage. no stems. that's fine.</pre>
+</section>
+
+<section id="capture"><div class="sec-n">04</div><h2>Capture</h2>
+
+<h3>Producer protocol — same in every room</h3>
+<pre>new audio track  →  NAME IT WITH THEIR NAME   ← this is the credit list
+arm it           →  three takes on three tracks
+keep the best    →  mute the others
+END              →  edit nothing. bounce the room to one stereo file.
+
+ASSEMBLY: 4 stereo bounces onto the bed → rough levels → play.
+the stacking already happened, in parallel, during the night.</pre>
+
+<h3>Four assets, one night</h3>
+<table>
+<tr><th>asset</th><th>from</th><th>goes to</th></tr>
+<tr><td class="hl">isolated stems</td><td>breakout rooms</td><td>the remixable archive</td></tr>
+<tr><td class="hl">crowd hook a cappella</td><td>the hook drop</td><td>the multi-city stack</td></tr>
+<tr><td class="hl">community footage</td><td>circle, jam, the set</td><td>proof, socials, mystique</td></tr>
+<tr><td class="hl">names + consent</td><td>the rooms</td><td>the list, the credits, the Village</td></tr>
+</table>
+
+<h3>Two kinds of capture</h3>
+<pre>THE CIRCLE + THE SHOW   →  community footage  →  proof + marketing
+THE BREAKOUT ROOMS      →  isolated stems     →  the remixable archive
+
+both from one night. neither substitutes for the other.</pre>
+
+<h3>Minimum kit</h3>
+<table>
+<tr><td>in-ear click</td><td>one AirPod is proven. the whole alignment solution.</td></tr>
+<tr><td>1 recorder</td><td>clock master. phones as B-cam.</td></tr>
+<tr><td>1 camera + operator</td><td>per breakout room</td></tr>
+<tr><td>drone patch</td><td>loaded in every room</td></tr>
+<tr><td>consent slips</td><td>printed. clipboard.</td></tr>
+<tr><td class="hl2">1 person on files</td><td class="hl2">NOT ADAM</td></tr>
+</table>
+</section>
+
+<section id="growth"><div class="sec-n">05</div><h2>Growth</h2>
+
+<h3>UNDERPASS — inverted marketing</h3>
+<pre>announce a show — LOCATION UNDISCLOSED
+      ↓
+only THE VILLAGE list gets the location
+      ↓
+footage appears online. nobody can tell where it was.
+      ↓
+people who missed it want in
+      ↓
+they join the list to find out next time
+      ↓
+they attend → they become the footage
+
+CONVERSION EVENT = joining the list, not buying a ticket.
+the secrecy is OPERATIONALLY REAL — you can't announce a bridge show.</pre>
+
+<h3>The host model</h3>
+<pre class="moss">LOCAL HOST   runs THE GATHERING — the whole front half
+ADAM         runs the breakout rooms, then plays
+
+booking a venue = a visiting act.
+handing over the front half = a collaborator.
+"I trust you with my room."
+
+THE TRUST IS THE ASSET. they're not lending a venue —
+they're lending CREDIBILITY. guarded rooms produce guarded takes.</pre>
+
+<h3>The seedling</h3>
+<pre>NIGHT 1   they lend credibility, run the Gathering
+          → their people are in the release, tagged, by name
+NIGHT 2   they know the format. seen it work on their own community.
+NIGHT 3   they're asking when the next one is. they have opinions.
+          → they could run the front half without you in the building
+
+nobody recruited them. they learned it by doing it.
+THE HOSTS ARE THE YES — and they're saying it to their own people.</pre>
+
+<h3>The chain</h3>
+<pre class="moss">one host → one night → their people in the release
+         → a second node → a network
+         → BREAK THIS LOOP RUNNING WITHOUT HIM</pre>
+
+<h3>The funnel</h3>
+<pre>UNDERPASS / socials  →  free, viral, mystique
+        ↓
+THE NIGHT            →  ticket. real product = CONNECTION.
+        ↓
+ONLINE COHORTS       →  once enough people exist across cities
+        ↓
+RETREATS             →  where the real money is</pre>
+
+<h3>Release model</h3>
+<pre>ONE SONG on DSPs (fixed)
+   └─ week 1: version w/ city A players
+   └─ week 2: version w/ city B players
+   └─ week 3: version w/ city C players
+   ...each a separate drop + behind-the-scenes
+
+the tour produces the content. every version is proof, not an ad.</pre>
+
+<h3>Reference class — historic accumulates</h3>
+<table>
+<tr><th>project</th><th>first release</th><th>where it ended</th></tr>
+<tr><td>Whitacre Virtual Choir</td><td class="hl">185 singers, 12 countries (2010)</td><td>17,572 singers, 129 countries (2020)</td></tr>
+<tr><td>Playing for Change</td><td class="hl">one video, Nov 2008</td><td>100M+ views, ~195 countries</td></tr>
+</table>
+<pre>Whitacre's opening move was SMALLER than what Adam already has unreleased.</pre>
+</section>
+
+<section id="rules"><div class="sec-n">06</div><h2>Rules &amp; Decisions</h2>
+
+<h3>The seven rules</h3>
+<pre class="red">1  the night is the atom. everything else is downstream of one night.
+2  never cut the performance. without the set it's a filming session.
+3  capture + turnaround are SOMEBODY ELSE'S JOB.
+4  use the warm start. never let one scene be the only channel.
+5  seeding is legitimate. pretending it's arriving live is not.
+6  credit, consent, compensation from day one.
+7  historic accumulates. it doesn't arrive.</pre>
+
+<h3>Decisions</h3>
+<table>
+<tr><th>decision</th><th>status</th></tr>
+<tr><td>BTL is defined by running without Adam</td><td class="ok">LOCKED</td></tr>
+<tr><td>Ya Selva is a participant, not the owner</td><td class="ok">LOCKED</td></tr>
+<tr><td>Ya Selva = BTL at the size of one life</td><td class="ok">LOCKED</td></tr>
+<tr><td>The workshop is the opening act</td><td class="ok">LOCKED</td></tr>
+<tr><td>The local host runs the whole front half</td><td class="ok">LOCKED</td></tr>
+<tr><td>UNDERPASS = the secret pop-up series</td><td class="ok">LOCKED</td></tr>
+<tr><td>Live-first design — music serves the room</td><td class="ok">LOCKED</td></tr>
+<tr><td>Start with the existing catalogue</td><td class="ok">LOCKED</td></tr>
+<tr><td>Adam = designer / director / host, never operator</td><td class="ok">LOCKED</td></tr>
+<tr><td>The hook drop</td><td class="ok">PROVEN</td></tr>
+<tr><td>The gathering name — MOONLIGHT <b>or</b> ECSTATIC EARTH</td><td class="hl2">UNDECIDED</td></tr>
+</table>
+
+<h3>Guardrails</h3>
+<pre class="red">DO NOT eat Ya Selva. if every show becomes a production shoot with
+edit deadlines, the spreadsheets moved into the one clean room.
+
+DO NOT lose the solo catalogue. Ya Selva still needs releases where
+he IS the artist. collaborative versions are a series BESIDE it.
+
+DO NOT build the cohort / platform / band until the nights exist.
+
+ENERGY CEILING: workshop + concert, one night, one person who can do
+both halves. MONTHLY, NOT WEEKLY. (Moonlight is a full moon anyway.)</pre>
+</section>
+
+<section id="next"><div class="sec-n">07</div><h2>Next</h2>
+<pre class="moss">1.  Talk to Ayman. the whole vision + one concrete thing in 60 days.
+2.  Pick ONE host. own community. hand them the front half.
+3.  Put a date on the calendar. this fall.
+4.  Next UNDERPASS — one camera, one operator.</pre>
+<h3>What's actually unsolved</h3>
+<table>
+<tr><td>Energy</td><td>workshop + concert back to back. unproven.</td></tr>
+<tr><td>The gathering name</td><td>MOONLIGHT or ECSTATIC EARTH. pick one before flyers exist.</td></tr>
+<tr><td>Whether 5 cities stack</td><td>can't be researched. answer it by doing it twice.</td></tr>
+</table>
+<pre class="red">THE RISK CHANGED SHAPE: from UNCLEAR to UNSTARTED.
+the only remaining move is a date.</pre>
+</section>
+
+</div>
+<footer>YA SELVA · THE VILLAGE · UNDERPASS · MOONLIGHT / ECSTATIC EARTH · BREAK THIS LOOP</footer>
+</body></html>
