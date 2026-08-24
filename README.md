@@ -28,6 +28,7 @@ BTL         runs without you — that IS its definition
 | file | what |
 |---|---|
 | `the-map.html` | **DO THIS FIRST** — facilitator map tool. Add rows, auto-tier, export CSV. |
+| `ya-selva-vision.html` | The vision page — who Ya Selva is, single-file |
 | `ya-selva-design-sheet.html` | **Start here.** Every diagram, no prose. |
 | `ya-selva-break-this-loop.html` | The connection — artist ↔ movement |
 | `the-night-run-of-show.html` | The night — run of show, capture protocol |
