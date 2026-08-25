@@ -46,6 +46,7 @@ BTL         runs without you — that IS its definition
 | `docs/10-one-rig-that-scales.md` | canonical rig reference — level 0 (root) through level 5 (Red Rocks) |
 | `images/ya-selva-modular-rig-01.png` | rig infographic — tiers 0-5, core rig, flow |
 | `images/ya-selva-modular-rig-02.png` | rig infographic — mission, scalable tiers, mini rig |
+| `docs/11-character-reference-stack.md` | canonical character vision — The Alchemist, Siddhartha, Motorcycle Diaries, Baraka, One Giant Leap, Bourdain |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
