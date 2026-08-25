@@ -357,3 +357,95 @@ The equipment exists to serve the life.
 Not the other way around.
 
 > **Find the pulse. Follow it. Make something real. Leave the signal.**
+
+────────
+
+## Ableton Move-First Everyday Rig
+
+The everyday Ya Selva rig should be Ableton Move-first, not laptop-first.
+
+For ordinary wandering, field capture, pop-up performance, and low-friction creation, the base electronic stack becomes:
+
+> **Ableton Move + tiny front end/mixer + guitar + mic + phone**
+
+Optional:
+
+- flute
+- tiny percussion
+- small speaker
+- power bank
+
+The important shift is this:
+
+> **Ableton Move is not a separate mini-version of the project. It is the first stage of the same musical process.**
+
+Material can begin anywhere:
+
+- sample the environment
+- build a beat
+- capture guitar or voice
+- sketch the harmonic or melodic idea
+- perform it immediately
+- record a synced phone performance
+
+Then the same musical material can move upward into Ableton Live and Push when the music asks for more depth.
+
+### One continuous process
+
+> **Ableton Note → Ableton Move → Ableton Live + Push → ecstatic dance / full live set / festival**
+
+These are not separate workflows.
+
+They are not separate identities.
+
+There is no hard divide between "demo mode" and "real music."
+
+It is one organism gaining resolution and scale.
+
+### Everyday mode
+
+> **Ableton Move + guitar + mic + phone**
+
+Small enough that going out still feels easy.
+
+### Pop-up performance mode
+
+> **Ableton Move + tiny mixer/front end + guitar + mic + phone + speaker**
+
+This allows a real live performance to happen with almost no infrastructure.
+
+The phone can capture finished stereo audio already synced to video.
+
+Multiple phone angles or repeated takes can be cut around the same tempo and arrangement grid.
+
+### Build-out mode
+
+> **Take the same material into Ableton Live + Push.**
+
+Now add:
+
+- deeper arrangement
+- more tracks
+- stems
+- additional percussion
+- field recordings
+- guests
+- longer transitions
+- live looping / clip structure
+- more sophisticated performance control
+
+### Ecstatic dance / larger-show mode
+
+By the time Push and the full Live rig appear, the project has not changed direction.
+
+The small field sketch has simply expanded into the larger embodied version.
+
+> **The everyday street version and the ecstatic-dance version are the same process at different scales.**
+
+The governing principle:
+
+> **Start small enough to go. Keep the material portable. Expand only when the music asks for it.**
+
+And:
+
+> **The rig does not become a different rig as the project grows. The same musical material gains more channels, more bodies, more amplification, and more space.**
