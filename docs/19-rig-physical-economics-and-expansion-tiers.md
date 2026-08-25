@@ -222,11 +222,37 @@ The best addition is usually:
 
 Take only the layer the day asks for.
 
+## Touring rig as the portable spine
+
+The mature touring target is not merely a convenient field rig. It is a **complete portable musical spine** that can travel internationally with very little infrastructure and still support a serious concert.
+
+Possible mature core:
+
+> **guitar + voice + standalone Ableton brain + phone + in-ear monitoring + proportional power**
+
+Optional only when justified:
+- compact premium DSP / interface front end for pristine vocal and guitar channels
+- tiny percussion vocabulary
+- a minimal additional controller only if Push cannot comfortably cover the actual musical task
+
+The laptop can still travel for general life and studio work without being required for the performance to begin.
+
+The artistic value of the standalone/tactile approach is not only fewer cables. It may place the musician in a different mental mode than a general-purpose computer: playing rather than editing, touching rather than clicking, committing rather than opening endless possibilities.
+
+This portable spine also enables the distributed-ensemble model:
+
+> **Ya Selva carries the spine. The ensemble lives in the world.**
+
+The core show travels complete. Local musicians, dancers, voices, rhythms, and field material expand it in each place.
+
+See: [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md)
+
 ## Related
 
 - [`18-the-field-studio-loop.md`](18-the-field-studio-loop.md) — implementation / design constraints
 - [`10-one-rig-that-scales.md`](10-one-rig-that-scales.md) — implementation / design constraints
 - [`21-build-the-grab-and-go-field-bag.md`](21-build-the-grab-and-go-field-bag.md) — next step
+- [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md) — canonical performance / touring architecture
 - [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
 
 ## Dependency friction

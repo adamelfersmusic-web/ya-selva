@@ -5,6 +5,9 @@ Explorer archetype — Alan Lomax × Xavier Rudd; Paul Simon and Walt Whitman wi
 
 > **Ya Selva is Break This Loop in a bag. The portable version.**
 
+> **Ya Selva carries the spine. The ensemble lives in the world.**
+> Touring model: a tiny, complete core show + a trusted, distributed ensemble that reactivates city by city. See [Governing references](#governing-references) → [`docs/23-the-distributed-ensemble.md`](docs/23-the-distributed-ensemble.md).
+
 ## The five named things
 
 | | what it is | presence |
@@ -34,18 +37,35 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 - [`docs/11-character-reference-stack.md`](docs/11-character-reference-stack.md) — The Alchemist, Siddhartha, Motorcycle Diaries, Baraka, One Giant Leap, Bourdain
 - [`docs/12-the-archetype.md`](docs/12-the-archetype.md) — the one archetype: the Pilgrim of Aliveness
 
+**Performance / touring architecture — major governing concept**
+
+- [`docs/23-the-distributed-ensemble.md`](docs/23-the-distributed-ensemble.md) — **the distributed ensemble.** "Ya Selva carries the spine. The ensemble lives in the world." A tiny complete core show tours; a trusted network of musicians/collaborators distributed across cities reactivates locally. Same spine, different body. The tour itself becomes part of the composition. Feeds Break This Loop. Do not design a portable version of a big show — design a tiny complete show the world can expand.
+
 **Implementation / design constraints (rig)**
 
-- [`docs/10-one-rig-that-scales.md`](docs/10-one-rig-that-scales.md) — level 0 (root) through level 5 (Red Rocks), plus the Ableton Move-first everyday rig
+- [`docs/10-one-rig-that-scales.md`](docs/10-one-rig-that-scales.md) — level 0 (root) through level 5 (Red Rocks), the Ableton Move-first everyday rig, the Ready-State Law
 - [`docs/18-the-field-studio-loop.md`](docs/18-the-field-studio-loop.md) — field mode / studio mode / full-rig mode as one continuous loop
-- [`docs/19-rig-physical-economics-and-expansion-tiers.md`](docs/19-rig-physical-economics-and-expansion-tiers.md) — weight, power, setup friction, tiers 0–5
+- [`docs/19-rig-physical-economics-and-expansion-tiers.md`](docs/19-rig-physical-economics-and-expansion-tiers.md) — weight, power, setup friction, tiers 0–5, dependency friction, the bag as behavioral infrastructure, the touring rig as portable spine
 - [`docs/16-ableton-ecosystem.md`](docs/16-ableton-ecosystem.md) — Note (pocket sketchbook) → Move (field instrument) → Live/Push (studio + stage brain)
-- [`docs/20-push-standalone-future-one-box-rig.md`](docs/20-push-standalone-future-one-box-rig.md) — Push Standalone as a future one-box rig, dependency friction vs. weight
+- [`docs/20-push-standalone-future-one-box-rig.md`](docs/20-push-standalone-future-one-box-rig.md) — Push Standalone as a future one-box rig: dependency friction vs. weight, the backpack-concert picture
 - [`docs/21-build-the-grab-and-go-field-bag.md`](docs/21-build-the-grab-and-go-field-bag.md) — next step: build the field bag, ready-state law, first field test
+
+**Current rig direction, in one place**
+
+- Proving phase now: Push 2 + laptop and/or Ableton Move — prove the behavior before buying anything.
+- **Ableton Move = minimum friction.** **Push Standalone = maximum depth without the laptop.** **Laptop + Push = maximum flexibility.**
+- Push Standalone's value isn't mainly weight — it's reduced *dependency friction* (how many separate things must become operational before music starts), plus a possibly different, more tactile creative mode than a laptop.
+- Mature travel core (long-term, not yet): soft guitar case + one backpack + Push Standalone + mic + minimal cables/power + tiny percussion vocabulary + phone (+ optional compact premium DSP/interface only if genuinely needed). Laptop may still travel but isn't required for the show to exist.
+- Keep the sonic vocabulary small and recognizable rather than an enormous sample library.
+- **The field rig lives in the bag. Make the ready state the default state.**
 
 **Practice notes**
 
 - [`docs/22-getting-back-into-the-world.md`](docs/22-getting-back-into-the-world.md) — the first practice is re-entering the world, one guitar case + one small bag
+
+**Historical context**
+
+- [`docs/24-the-through-line.md`](docs/24-the-through-line.md) — `break-this-loop/the-through-line`: the 25-year lineage (ensemble at 17 → the same answer now), the demonstrated gift (facilitating participatory music in physical rooms), why BTL v2 stalled, and the still-open question of Ya Selva's relationship to Break This Loop. The distributed ensemble (above) is the matured version of the "assemble the band from the location" insight a Rainbow Gathering elder gave Adam roughly a decade before this architecture became clear.
 
 **Raw capture (unedited, not canonical — source material the docs above were synthesized from)**
 
@@ -91,6 +111,8 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 | `docs/20-push-standalone-future-one-box-rig.md` | Push Standalone as a future one-box rig — dependency friction vs. weight |
 | `docs/21-build-the-grab-and-go-field-bag.md` | next step — build the field bag, ready-state law, first field test |
 | `docs/22-getting-back-into-the-world.md` | practice note — the first practice is re-entering the world |
+| `docs/23-the-distributed-ensemble.md` | **major** — the distributed ensemble: spine travels, ensemble lives in the world, same spine/different body |
+| `docs/24-the-through-line.md` | historical context — `break-this-loop/the-through-line`, the 25-year lineage keystone capture |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 

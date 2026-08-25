@@ -374,9 +374,29 @@ The stack: **The Alchemist + Motorcycle Diaries + Baraka + One Giant Leap + Anth
 
 > **A wandering musician follows signs, people, places, and sounds through the world, lets what he encounters change him, and turns the journey into music.**
 
+## The distributed ensemble
+
+The traveling Ya Selva core should be complete enough to perform alone, but porous enough for each place to change it.
+
+> **Ya Selva carries the spine. The ensemble lives in the world.**
+
+The long-term band is not necessarily a fixed group of people moving together everywhere. It can become a trusted distributed ensemble: musicians, singers, dancers, facilitators, and collaborators who live in different cities and reactivate when Ya Selva arrives.
+
+> **Same spine. Different body.**
+
+Dayton should not have exactly the same Ya Selva concert as Bogotá, Lisbon, or Manila. The core songs, sonic language, live system, and participatory architecture stay coherent; the humans, sounds, rhythms, field recordings, and local relationships change the body of the show.
+
+> **The tour itself becomes part of the composition.**
+
+The aim is not random local guest sourcing. It is relationship-building city by city. Over years, repeated returns create musical memory, a living archive, and a body of work that could not have been fabricated without actually moving through the world.
+
+See: [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md)
+
 ## Related
 
 - [`17-character-north-star.md`](17-character-north-star.md) — canonical character
 - [`11-character-reference-stack.md`](11-character-reference-stack.md) — canonical character
 - [`12-the-archetype.md`](12-the-archetype.md) — canonical archetype
+- [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md) — canonical performance / touring architecture
+- [`10-one-rig-that-scales.md`](10-one-rig-that-scales.md) — implementation / design constraints
 - [`ya-selva-vision.html`](../ya-selva-vision.html) — the designed single-file version of this note
