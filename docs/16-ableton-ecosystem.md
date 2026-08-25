@@ -227,3 +227,7 @@ If it increases friction too much, it probably belongs in a higher tier, not the
 ## One-line summary
 
 Ableton Note, Move, and Live form a scalable Ya Selva ecosystem: from pocket sketchbook, to field instrument, to full studio/stage brain — so music can begin anywhere and grow only when the song asks for it.
+
+## Related
+
+- [`27-ableton-ai-agent-feasibility.md`](27-ableton-ai-agent-feasibility.md) — idea: an LLM agent operating on MIDI clips inside Live

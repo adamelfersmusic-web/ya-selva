@@ -75,6 +75,10 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 
 - [`docs/24-the-through-line.md`](docs/24-the-through-line.md) — `break-this-loop/the-through-line`: the 25-year lineage (ensemble at 17 → the same answer now), the demonstrated gift (facilitating participatory music in physical rooms), why BTL v2 stalled, and the still-open question of Ya Selva's relationship to Break This Loop. The distributed ensemble (above) is the matured version of the "assemble the band from the location" insight a Rainbow Gathering elder gave Adam roughly a decade before this architecture became clear.
 
+**Tooling explorations — idea stage, not canonical, not built**
+
+- [`docs/27-ableton-ai-agent-feasibility.md`](docs/27-ableton-ai-agent-feasibility.md) — could an LLM agent operate on Ableton MIDI clips (density variations, climax→verse derivation, arrangement analysis)? Verdict: technically real, strictly MIDI/symbolic only (no audio perception, no real-time), worth a v0.1 prototype but unproven on real material. Fits as scaffolding during the MIDI-sketch phase, not the live guitar/voice core.
+
 **Raw capture (unedited, not canonical — source material the docs above were synthesized from)**
 
 - [`captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md)
@@ -125,6 +129,7 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 | `docs/24-the-through-line.md` | historical context — `break-this-loop/the-through-line`, the 25-year lineage keystone capture |
 | `docs/25-ya-selva-and-break-this-loop.md` | visual synthesis — "two wings of the same organism," the distributed ensemble as bridge |
 | `images/ya-selva-break-this-loop-two-wings.png` | poster graphic for the note above |
+| `docs/27-ableton-ai-agent-feasibility.md` | idea, not built — LLM agent on Ableton MIDI clips, scope and limits |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
