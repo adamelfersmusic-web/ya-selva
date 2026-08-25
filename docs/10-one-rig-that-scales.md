@@ -450,10 +450,32 @@ And:
 
 > **The rig does not become a different rig as the project grows. The same musical material gains more channels, more bodies, more amplification, and more space.**
 
+────────
+
+## Ready-State Law
+
+The rig should not merely be portable. It should be **stored ready to leave**.
+
+> **The field rig lives in the bag.**
+
+Keep the home studio assembled. Keep the field system packed. Avoid borrowing the same essential cable or adapter back and forth whenever a cheap dedicated duplicate can remove the decision entirely.
+
+The ideal transition remains:
+
+> **grab bag → grab guitar → door closes**
+
+During the current Push 2 + laptop proving phase, protect Push 2 with a transport-safe sleeve / case if it is going into regular field use. A device that feels too precious to carry is not functionally portable.
+
+Future standalone tiers may reduce dependency friction further, but readiness is independent of the hardware choice.
+
+See: [`21-build-the-grab-and-go-field-bag.md`](21-build-the-grab-and-go-field-bag.md)
+
 ## Related
 
 - [`00-vision.md`](00-vision.md) — canonical vision
 - [`18-the-field-studio-loop.md`](18-the-field-studio-loop.md) — implementation / design constraints
 - [`19-rig-physical-economics-and-expansion-tiers.md`](19-rig-physical-economics-and-expansion-tiers.md) — implementation / design constraints
 - [`16-ableton-ecosystem.md`](16-ableton-ecosystem.md) — implementation / design constraints
+- [`21-build-the-grab-and-go-field-bag.md`](21-build-the-grab-and-go-field-bag.md) — next step
+- [`22-getting-back-into-the-world.md`](22-getting-back-into-the-world.md) — practice note
 - [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture

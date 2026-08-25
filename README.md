@@ -41,6 +41,11 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 - [`docs/19-rig-physical-economics-and-expansion-tiers.md`](docs/19-rig-physical-economics-and-expansion-tiers.md) — weight, power, setup friction, tiers 0–5
 - [`docs/16-ableton-ecosystem.md`](docs/16-ableton-ecosystem.md) — Note (pocket sketchbook) → Move (field instrument) → Live/Push (studio + stage brain)
 - [`docs/20-push-standalone-future-one-box-rig.md`](docs/20-push-standalone-future-one-box-rig.md) — Push Standalone as a future one-box rig, dependency friction vs. weight
+- [`docs/21-build-the-grab-and-go-field-bag.md`](docs/21-build-the-grab-and-go-field-bag.md) — next step: build the field bag, ready-state law, first field test
+
+**Practice notes**
+
+- [`docs/22-getting-back-into-the-world.md`](docs/22-getting-back-into-the-world.md) — the first practice is re-entering the world, one guitar case + one small bag
 
 **Raw capture (unedited, not canonical — source material the docs above were synthesized from)**
 
@@ -84,6 +89,8 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 | `docs/19-rig-physical-economics-and-expansion-tiers.md` | rig physical economics — weight, power, setup friction, tiers 0–5 |
 | `captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md` | raw capture — source material for the rig docs above |
 | `docs/20-push-standalone-future-one-box-rig.md` | Push Standalone as a future one-box rig — dependency friction vs. weight |
+| `docs/21-build-the-grab-and-go-field-bag.md` | next step — build the field bag, ready-state law, first field test |
+| `docs/22-getting-back-into-the-world.md` | practice note — the first practice is re-entering the world |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 

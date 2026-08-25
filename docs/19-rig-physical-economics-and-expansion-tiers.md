@@ -226,6 +226,7 @@ Take only the layer the day asks for.
 
 - [`18-the-field-studio-loop.md`](18-the-field-studio-loop.md) — implementation / design constraints
 - [`10-one-rig-that-scales.md`](10-one-rig-that-scales.md) — implementation / design constraints
+- [`21-build-the-grab-and-go-field-bag.md`](21-build-the-grab-and-go-field-bag.md) — next step
 - [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
 
 ## Dependency friction
@@ -260,3 +261,43 @@ Role:
 Ableton Move should remain the default minimum-friction field tier unless real use proves otherwise.
 
 See: [`20-push-standalone-future-one-box-rig.md`](20-push-standalone-future-one-box-rig.md)
+
+## The bag as behavioral infrastructure
+
+A crucial part of physical economics is not merely what the rig contains, but **where it lives between outings**.
+
+The field rig should have a permanent home:
+
+> **The field rig lives in the bag.**
+
+The goal is to eliminate pre-departure scavenger hunts and setup decisions.
+
+Whenever possible, essentials should either:
+- live in the field bag permanently, or
+- have a dedicated duplicate that lives there
+
+Examples:
+- USB / audio cables
+- adapters
+- charger / power bank
+- mic cable
+- headphones
+- small tripod / phone mount
+- tiny mixer or front end
+- notebook / pen
+
+The home studio should remain assembled. The field bag should remain packed.
+
+> **Do not cannibalize the field bag to run the studio.**
+
+This turns departure into:
+
+> **grab bag → grab guitar → leave**
+
+If Push 2 is being taken outside during the current proving phase, it should have a protective sleeve / case appropriate to regular transport. Expensive gear that feels vulnerable creates its own hidden friction.
+
+Eventually, a standalone Ableton brain could reduce the field system further, but the immediate behavioral principle stays the same:
+
+> **Make the ready state the default state.**
+
+See: [`21-build-the-grab-and-go-field-bag.md`](21-build-the-grab-and-go-field-bag.md)
