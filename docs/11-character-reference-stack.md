@@ -8,6 +8,8 @@ They are a fast way to understand the character and life-pattern of Ya Selva.
 
 The character becomes clearest when these references are seen together:
 
+![Ya Selva — Character Reference Stack](../images/ya-selva-character-reference-stack.png)
+
 ## The Alchemist
 
 The mythic search.
