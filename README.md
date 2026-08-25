@@ -54,6 +54,7 @@ BTL         runs without you — that IS its definition
 | `docs/14-design-system.md` | canonical design system — palette, type, layout, materials, motifs, AI-generation prompt |
 | `docs/15-instrument-world.md` | instrument world — the small traveling orchestra |
 | `images/ya-selva-instrument-world.png` | instrument world poster |
+| `docs/16-ableton-ecosystem.md` | Ableton ecosystem — Note (pocket sketchbook), Move (field instrument), Live/Push (studio + stage brain) |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
