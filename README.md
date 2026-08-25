@@ -40,6 +40,7 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 **Performance / touring architecture — major governing concept**
 
 - [`docs/23-the-distributed-ensemble.md`](docs/23-the-distributed-ensemble.md) — **the distributed ensemble.** "Ya Selva carries the spine. The ensemble lives in the world." A tiny complete core show tours; a trusted network of musicians/collaborators distributed across cities reactivates locally. Same spine, different body. The tour itself becomes part of the composition. Feeds Break This Loop. Do not design a portable version of a big show — design a tiny complete show the world can expand.
+- [`docs/25-ya-selva-and-break-this-loop.md`](docs/25-ya-selva-and-break-this-loop.md) — visual synthesis poster ("two wings of the same organism"): Ya Selva / the distributed ensemble (the bridge) / Break This Loop, three panels
 
 **Implementation / design constraints (rig)**
 
@@ -113,6 +114,8 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 | `docs/22-getting-back-into-the-world.md` | practice note — the first practice is re-entering the world |
 | `docs/23-the-distributed-ensemble.md` | **major** — the distributed ensemble: spine travels, ensemble lives in the world, same spine/different body |
 | `docs/24-the-through-line.md` | historical context — `break-this-loop/the-through-line`, the 25-year lineage keystone capture |
+| `docs/25-ya-selva-and-break-this-loop.md` | visual synthesis — "two wings of the same organism," the distributed ensemble as bridge |
+| `images/ya-selva-break-this-loop-two-wings.png` | poster graphic for the note above |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
@@ -129,3 +132,5 @@ All HTML is single-file with images embedded. Opens offline. No build step.
 
 Parachute vault. Start at `break-this-loop/000-ya-selva-btl-connection`, or `music/ya-selva/00-vision` for the artist project directly.
 This repo holds artifacts — things that felt done enough to freeze. The docs under **Governing references** above are mirrored copies of canonical vault notes; the vault is still the editable source — update there first, then re-sync here.
+
+**Open question:** exactly what should live in the vault vs. this repo isn't fully decided yet — see [`docs/_open-questions.md`](docs/_open-questions.md).

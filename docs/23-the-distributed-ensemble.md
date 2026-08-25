@@ -153,3 +153,4 @@ The current distributed-ensemble model is a more developed version of that same 
 - [`19-rig-physical-economics-and-expansion-tiers.md`](19-rig-physical-economics-and-expansion-tiers.md) — implementation / design constraints
 - [`20-push-standalone-future-one-box-rig.md`](20-push-standalone-future-one-box-rig.md) — canonical rig option
 - [`24-the-through-line.md`](24-the-through-line.md) — historical context (break-this-loop/the-through-line)
+- [`25-ya-selva-and-break-this-loop.md`](25-ya-selva-and-break-this-loop.md) — visual synthesis poster: this note as the bridge between the two projects
