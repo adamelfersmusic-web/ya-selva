@@ -42,6 +42,9 @@ BTL         runs without you — that IS its definition
 | `docs/06-the-pitch.md` | credential, demonstration, reach-out |
 | `docs/07-brand-system.md` | billing line, color bridge, type |
 | `docs/08-the-map.md` | billing line, color bridge, type |
+| `docs/09-the-rig.md` | the modular mobile rig — one rig, many worlds |
+| `images/ya-selva-modular-rig-01.png` | rig infographic — tiers 0-5, core rig, flow |
+| `images/ya-selva-modular-rig-02.png` | rig infographic — mission, scalable tiers, mini rig |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
