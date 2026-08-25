@@ -52,6 +52,8 @@ BTL         runs without you — that IS its definition
 | `docs/13-visual-style.md` | visual style field guide — palette, type, motifs, prompt seed |
 | `images/ya-selva-visual-style.png` | visual style poster |
 | `docs/14-design-system.md` | canonical design system — palette, type, layout, materials, motifs, AI-generation prompt |
+| `docs/15-instrument-world.md` | instrument world — the small traveling orchestra |
+| `images/ya-selva-instrument-world.png` | instrument world poster |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
