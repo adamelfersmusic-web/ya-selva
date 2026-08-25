@@ -48,6 +48,7 @@ BTL         runs without you — that IS its definition
 | `images/ya-selva-modular-rig-02.png` | rig infographic — mission, scalable tiers, mini rig |
 | `docs/11-character-reference-stack.md` | canonical character vision — The Alchemist, Siddhartha, Motorcycle Diaries, Baraka, One Giant Leap, Bourdain |
 | `images/ya-selva-character-reference-stack.png` | character reference stack poster |
+| `docs/12-the-archetype.md` | the one archetype — the Pilgrim of Aliveness |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
