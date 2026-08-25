@@ -232,3 +232,9 @@ Or even shorter:
 That is not just a creative process.
 
 It is the pilgrim's path.
+
+## Related
+
+- [`00-vision.md`](00-vision.md) — canonical vision
+- [`17-character-north-star.md`](17-character-north-star.md) — canonical character
+- [`11-character-reference-stack.md`](11-character-reference-stack.md) — canonical character

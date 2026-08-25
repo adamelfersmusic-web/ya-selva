@@ -449,3 +449,11 @@ The governing principle:
 And:
 
 > **The rig does not become a different rig as the project grows. The same musical material gains more channels, more bodies, more amplification, and more space.**
+
+## Related
+
+- [`00-vision.md`](00-vision.md) — canonical vision
+- [`18-the-field-studio-loop.md`](18-the-field-studio-loop.md) — implementation / design constraints
+- [`19-rig-physical-economics-and-expansion-tiers.md`](19-rig-physical-economics-and-expansion-tiers.md) — implementation / design constraints
+- [`16-ableton-ecosystem.md`](16-ableton-ecosystem.md) — implementation / design constraints
+- [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture

@@ -170,3 +170,9 @@ The point is to enter it, listen to it, be changed by it, and make something fro
 And the character question:
 
 > **What is actually alive here?**
+
+## Related
+
+- [`00-vision.md`](00-vision.md) — canonical vision
+- [`17-character-north-star.md`](17-character-north-star.md) — canonical character
+- [`12-the-archetype.md`](12-the-archetype.md) — canonical archetype
