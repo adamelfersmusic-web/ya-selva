@@ -49,6 +49,8 @@ BTL         runs without you — that IS its definition
 | `docs/11-character-reference-stack.md` | canonical character vision — The Alchemist, Siddhartha, Motorcycle Diaries, Baraka, One Giant Leap, Bourdain |
 | `images/ya-selva-character-reference-stack.png` | character reference stack poster |
 | `docs/12-the-archetype.md` | the one archetype — the Pilgrim of Aliveness |
+| `docs/13-visual-style.md` | visual style field guide — palette, type, motifs, prompt seed |
+| `images/ya-selva-visual-style.png` | visual style poster |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
