@@ -67,6 +67,7 @@ It is a **distributed living ensemble**, a musical archive of relationships, and
 ## Related
 
 - [`00-vision.md`](00-vision.md) — canonical vision (full version)
+- [`26-five-guardrails-for-the-tiny-complete-show.md`](26-five-guardrails-for-the-tiny-complete-show.md) — locked canonical guardrails
 - [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md) — canonical performance / touring architecture
 - [`10-one-rig-that-scales.md`](10-one-rig-that-scales.md) — implementation / design constraints
 - [`20-push-standalone-future-one-box-rig.md`](20-push-standalone-future-one-box-rig.md) — canonical rig option

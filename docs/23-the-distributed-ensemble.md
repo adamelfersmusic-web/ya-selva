@@ -149,6 +149,7 @@ The current distributed-ensemble model is a more developed version of that same 
 ## Related
 
 - [`00-master-vision.md`](00-master-vision.md) — **locked master vision** — the condensed top-of-canon articulation
+- [`26-five-guardrails-for-the-tiny-complete-show.md`](26-five-guardrails-for-the-tiny-complete-show.md) — locked canonical guardrails
 - [`00-vision.md`](00-vision.md) — canonical vision
 - [`10-one-rig-that-scales.md`](10-one-rig-that-scales.md) — implementation / design constraints
 - [`19-rig-physical-economics-and-expansion-tiers.md`](19-rig-physical-economics-and-expansion-tiers.md) — implementation / design constraints

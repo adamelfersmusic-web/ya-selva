@@ -35,6 +35,7 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 **🔒 Master vision — locked, start here**
 
 - [`docs/00-master-vision.md`](docs/00-master-vision.md) — the condensed top-of-canon articulation. One page: Ya Selva carries the spine, the world supplies the body, same sound/different body, the distributed ensemble as the bridge to Break This Loop, the tiny-rig constraint, and the five governing lines. Status: **locked** — this is the current top-level articulation, not a loose working note. `docs/00-vision.md` below is the full-length version this condenses.
+- [`docs/26-five-guardrails-for-the-tiny-complete-show.md`](docs/26-five-guardrails-for-the-tiny-complete-show.md) — the operational rules that keep the master vision from drifting: the core show must work completely alone, expansion adds and never rescues, carry the spine/source the body, never let production requirements kill mobility, every scale is the same organism. Status: **locked**.
 
 **Canonical vision / character**
 
@@ -111,6 +112,7 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 | `images/ya-selva-instrument-world.png` | instrument world poster |
 | `docs/16-ableton-ecosystem.md` | Ableton ecosystem — Note (pocket sketchbook), Move (field instrument), Live/Push (studio + stage brain) |
 | `docs/00-master-vision.md` | 🔒 **locked master vision** — condensed top-of-canon articulation, start here |
+| `docs/26-five-guardrails-for-the-tiny-complete-show.md` | 🔒 **locked** — five guardrails: core show works alone, expansion adds not rescues, carry the spine/source the body, preserve mobility, every scale is the same organism |
 | `docs/00-vision.md` | canonical vision (markdown, full length) — see Governing references above |
 | `docs/17-character-north-star.md` | canonical character north star |
 | `docs/18-the-field-studio-loop.md` | field / studio / stage as one continuous loop |

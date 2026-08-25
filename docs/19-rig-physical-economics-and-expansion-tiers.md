@@ -253,6 +253,7 @@ See: [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md)
 - [`10-one-rig-that-scales.md`](10-one-rig-that-scales.md) — implementation / design constraints
 - [`21-build-the-grab-and-go-field-bag.md`](21-build-the-grab-and-go-field-bag.md) — next step
 - [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md) — canonical performance / touring architecture
+- [`26-five-guardrails-for-the-tiny-complete-show.md`](26-five-guardrails-for-the-tiny-complete-show.md) — locked canonical guardrails
 - [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
 
 ## Dependency friction
