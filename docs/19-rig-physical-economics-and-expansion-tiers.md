@@ -227,3 +227,36 @@ Take only the layer the day asks for.
 - [`18-the-field-studio-loop.md`](18-the-field-studio-loop.md) — implementation / design constraints
 - [`10-one-rig-that-scales.md`](10-one-rig-that-scales.md) — implementation / design constraints
 - [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
+
+## Dependency friction
+
+Physical economics is not only about pounds, dimensions, or number of bags.
+
+A major hidden variable is:
+
+> **dependency friction — how many separate things have to become operational before music can start.**
+
+This matters when comparing rigs.
+
+A laptop + Push 2 setup may not be dramatically heavier than a standalone device, but it introduces more dependencies:
+- laptop
+- Push 2
+- power
+- USB
+- interface / routing as needed
+- session state
+
+A future Push Standalone rig could therefore be **more portable in practice** even if it is physically larger than Ableton Move, because it collapses the live brain into one object.
+
+Possible future tier:
+
+> **Push Standalone + instrument + mic / tiny mixer + phone**
+
+Role:
+- deeper than Ableton Move
+- lower dependency burden than laptop + Push 2
+- suited to developed pop-up performance, longer improvisational sets, ecstatic-dance material, and more elaborate live work
+
+Ableton Move should remain the default minimum-friction field tier unless real use proves otherwise.
+
+See: [`20-push-standalone-future-one-box-rig.md`](20-push-standalone-future-one-box-rig.md)

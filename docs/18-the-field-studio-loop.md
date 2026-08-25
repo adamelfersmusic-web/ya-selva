@@ -137,3 +137,26 @@ The whole thing remains one process.
 - [`19-rig-physical-economics-and-expansion-tiers.md`](19-rig-physical-economics-and-expansion-tiers.md) — implementation / design constraints
 - [`16-ableton-ecosystem.md`](16-ableton-ecosystem.md) — implementation / design constraints
 - [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
+
+## Future one-box middle tier — Push Standalone
+
+There may eventually be a useful middle tier between Ableton Move and laptop + Push 2:
+
+> **Push Standalone + instrument + mic / tiny mixer + phone**
+
+Why it matters:
+- deeper Ableton control than Ableton Move
+- fuller live-performance capability
+- no laptop dependency
+- potentially less **dependency friction** than laptop + Push 2 even if the device itself is physically larger
+
+The relevant portability question is not only weight or size.
+
+> **How many separate things have to become operational before music can begin?**
+
+Ableton Move remains the minimum-friction field tool.
+Push Standalone may become the deeper one-box performance tool if repeated use shows that the main frustration is wanting Push-level depth without carrying the laptop.
+
+Do not force the purchase early. Let actual field use prove whether this tier is needed.
+
+See: [`20-push-standalone-future-one-box-rig.md`](20-push-standalone-future-one-box-rig.md)
