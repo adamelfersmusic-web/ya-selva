@@ -5,8 +5,10 @@ Explorer archetype — Alan Lomax × Xavier Rudd; Paul Simon and Walt Whitman wi
 
 > **Ya Selva is Break This Loop in a bag. The portable version.**
 
+> **A moving musical center small enough to travel anywhere, porous enough to become larger through every place it touches.**
 > **Ya Selva carries the spine. The ensemble lives in the world.**
-> Touring model: a tiny, complete core show + a trusted, distributed ensemble that reactivates city by city. See [Governing references](#governing-references) → [`docs/23-the-distributed-ensemble.md`](docs/23-the-distributed-ensemble.md).
+>
+> This is the locked master vision. Full version: [`docs/00-master-vision.md`](docs/00-master-vision.md).
 
 ## The five named things
 
@@ -29,6 +31,10 @@ BTL         runs without you — that IS its definition
 ## Governing references
 
 These are pulled from the Parachute vault and mirrored here as canonical project references for future sessions. They are grouped by provenance — canonical docs state what's settled, implementation docs state working constraints, captures are raw and unedited.
+
+**🔒 Master vision — locked, start here**
+
+- [`docs/00-master-vision.md`](docs/00-master-vision.md) — the condensed top-of-canon articulation. One page: Ya Selva carries the spine, the world supplies the body, same sound/different body, the distributed ensemble as the bridge to Break This Loop, the tiny-rig constraint, and the five governing lines. Status: **locked** — this is the current top-level articulation, not a loose working note. `docs/00-vision.md` below is the full-length version this condenses.
 
 **Canonical vision / character**
 
@@ -104,7 +110,8 @@ These are pulled from the Parachute vault and mirrored here as canonical project
 | `docs/15-instrument-world.md` | instrument world — the small traveling orchestra |
 | `images/ya-selva-instrument-world.png` | instrument world poster |
 | `docs/16-ableton-ecosystem.md` | Ableton ecosystem — Note (pocket sketchbook), Move (field instrument), Live/Push (studio + stage brain) |
-| `docs/00-vision.md` | canonical vision (markdown) — see Governing references above |
+| `docs/00-master-vision.md` | 🔒 **locked master vision** — condensed top-of-canon articulation, start here |
+| `docs/00-vision.md` | canonical vision (markdown, full length) — see Governing references above |
 | `docs/17-character-north-star.md` | canonical character north star |
 | `docs/18-the-field-studio-loop.md` | field / studio / stage as one continuous loop |
 | `docs/19-rig-physical-economics-and-expansion-tiers.md` | rig physical economics — weight, power, setup friction, tiers 0–5 |

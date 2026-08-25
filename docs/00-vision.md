@@ -394,6 +394,7 @@ See: [`23-the-distributed-ensemble.md`](23-the-distributed-ensemble.md)
 
 ## Related
 
+- [`00-master-vision.md`](00-master-vision.md) — **locked master vision** — the condensed top-of-canon articulation (Ya Selva + the distributed ensemble + Break This Loop, in one page)
 - [`17-character-north-star.md`](17-character-north-star.md) — canonical character
 - [`11-character-reference-stack.md`](11-character-reference-stack.md) — canonical character
 - [`12-the-archetype.md`](12-the-archetype.md) — canonical archetype
