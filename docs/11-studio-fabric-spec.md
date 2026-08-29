@@ -2,8 +2,15 @@
 
 Spec. 2026-08-29.
 
-Buying spec for the fabric that lines the Ya Selva studio. Reference image:
-`images/mockup-studio-fabric-backdrop.png`.
+Buying spec for the fabric that lines the Ya Selva studio.
+
+| reference | what it shows |
+|---|---|
+| `images/mockup-studio-fabric-backdrop.png` | the banner on the desk wall, mudcloth side panels |
+| `images/mockup-studio-night-full-room.png` | the whole room at night — this is the target |
+
+The night shot is the pass condition made visible: walls gone to black, banner
+emerging, warm lamps carrying the ochre, teal only where the lighting puts it.
 
 The goal is not "green walls." The goal is a dark, matte textile shell that kills the
 basement-white feeling, absorbs light and some reflections, and lets the banner,
