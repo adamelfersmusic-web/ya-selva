@@ -93,6 +93,34 @@ The banner gets to shout. The walls don't.
 charcoal, and indigo makes the room feel collected and organic rather than like you
 ordered a matching "jungle studio" set.
 
+## Order a swatch first
+
+Always, if the vendor allows it. **Half Price Drapes offers free fabric swatches** —
+which is exactly right here, because the question we care about is
+
+```
+DOES THIS DISAPPEAR TOWARD BLACK UNDER LOW LIGHT?
+```
+
+not what the product page calls the color. Product photography is shot bright and
+flat, which is the one lighting condition this room will never be in. A name like
+"forest" or "olive" tells you nothing about how the cloth behaves at 8pm with two
+lamps on.
+
+What to do with the swatch when it arrives:
+
+1. **Low-light test.** Put it on the wall it's meant for, kill the overheads, run the
+   room's actual lamps. Does it go near-black? That's the pass condition.
+2. **Sheen test.** Phone flashlight raked across it from the side. Conspicuous bright
+   streak = reject.
+3. **Warm directional test.** Aim one warm light at it. The green/indigo should
+   *emerge* — present but not announced.
+4. **Side by side.** Hold candidates against each other and against the banner. The
+   variation between them is the point; make sure it reads as collected, not clashing.
+
+Judge the swatch in the room, at night, under the lights the room will actually use.
+Never under daylight or a phone screen.
+
 ## Buying instruction
 
 Hand this to whoever is sourcing:
@@ -101,6 +129,8 @@ Hand this to whoever is sourcing:
 > charcoal-black, or extremely dark indigo. Natural-looking surface texture preferred.
 > Low-contrast woven/printed patterns permitted. No sheen, no saturated greens, no
 > bright contrasting patterns. Fabric should visually approach black in low light and
-> reveal its color/texture under warm directional lighting.
+> reveal its color/texture under warm directional lighting. **Order free swatches
+> before committing to yardage** — Half Price Drapes and similar vendors provide
+> them at no cost, and the color name on the product page is not the spec.
 
 That's the spec to actually buy against.
