@@ -148,5 +148,7 @@ anything like node one.
 
 ---
 
+Operational addendum: `10-shared-raw-material.md` — the collection-consent rule.
+
 Source of truth: Parachute vault, `music/ya-selva-btl-shared-dna`. This file is a frozen
 extract.

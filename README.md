@@ -42,6 +42,7 @@ BTL         runs without you — that IS its definition
 | `docs/07-brand-system.md` | billing line, color bridge, type |
 | `docs/08-the-map.md` | billing line, color bridge, type |
 | `docs/09-the-shared-dna.md` | **the shared DNA** — what Ya Selva and BTL are actually made of |
+| `docs/10-shared-raw-material.md` | the collection-consent rule — raw material shared, releases separate |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
