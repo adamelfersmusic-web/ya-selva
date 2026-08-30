@@ -100,6 +100,8 @@ by being RUN — nothing here can be locked yet, because no night has happened.*
 | O6 | The pre-rule BTL corpus — off-limits for Ya Selva releases, or usable with full BTL-equivalent credit? | [`docs/connection/shared-raw-material.md`](docs/connection/shared-raw-material.md) |
 | O7 | Does the consent line get written down — a sentence he says, or one on a phone screen he shows people? | [`docs/connection/shared-raw-material.md`](docs/connection/shared-raw-material.md) |
 | O8 | What lives in the Parachute vault vs. this repo? | [`docs/_open-questions.md`](docs/_open-questions.md) |
+| O9 | **Repo and vault do not share a status vocabulary.** Only `locked` exists in both. | see below |
+| O10 | Where do the five `docs/` groups go — rig, character, connection, brand, explorations? | *Needs your ruling*, below |
 
 ---
 
@@ -161,6 +163,48 @@ that says where they go, and CANON was missing.** Guesses, not decisions:
 
 **Also unanswered:** does `docs/` survive at all, or does everything move up?
 `songs/` and `writing/` are empty — is that a gap to fill or just not yet?
+
+---
+
+---
+
+## 📤 Handed to the chat side — 2026-08-30
+
+There is no direct channel between this Claude Code session and the chat-side Claude
+that holds the Ya Selva context. **The Parachute vault is the only medium both can
+see**, so the handoff was filed there:
+
+> **`music/ya-selva/repo-vault-sync-open-decision`**
+
+It carries: the missing-CANON blocker, the five-group folder mapping with a concrete
+proposal to accept or amend, the repo↔vault sync proposal, and the standing check.
+Four items in it need Adam's ruling, not an agent's.
+
+### ⚠️ The status vocabulary does not round-trip
+
+Found while filing that note — the vault refused its `status` value.
+
+```
+REPO   (this brief)      locked · workshop · open · capture
+VAULT  (#break-this-loop) idea · draft · proposed · active · living ·
+                          locked · shipped · parked · superseded
+```
+
+**Only `locked` exists in both.** `workshop`, `open` and `capture` are not vault
+values; `living`, `shipped`, `parked`, `superseded` are not repo values. A file's
+status cannot survive a round trip today, which makes any sync scheme lossy before
+it starts.
+
+Needs a ruling: repo adopts the vault enum · vault schema gains the repo's four · or
+a written mapping (repo `workshop` → vault `active`, repo `open` → vault `proposed`).
+
+### Fixed in the vault this pass
+
+The two stale `repo_copies` pointers now resolve, and both carry a
+`repo_copies_verified: 2026-08-30` stamp:
+
+- `music/ya-selva-btl-shared-dna` → `docs/connection/the-shared-dna.md`
+- `music/shared-raw-material-collection-rule` → `docs/connection/shared-raw-material.md`
 
 ---
 
