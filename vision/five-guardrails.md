@@ -1,3 +1,8 @@
+---
+status: locked
+date: 2026-08-25
+---
+
 <!-- provenance: canonical, LOCKED (doc_type: canonical-guardrails) — pulled from Parachute vault music/ya-selva/five-guardrails-for-the-tiny-complete-show -->
 
 # Ya Selva — Five Guardrails for the Tiny Complete Show
@@ -110,5 +115,5 @@ But none of those places are supplying the thing itself.
 
 - [`master-vision.md`](master-vision.md) — locked master vision
 - [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture
-- [`../rig/one-rig-that-scales.md`](../rig/one-rig-that-scales.md) — implementation / design constraints
-- [`../rig/physical-economics-and-expansion-tiers.md`](../rig/physical-economics-and-expansion-tiers.md) — implementation / design constraints
+- [`../rig/one-rig-that-scales.md`](../docs/rig/one-rig-that-scales.md) — implementation / design constraints
+- [`../rig/physical-economics-and-expansion-tiers.md`](../docs/rig/physical-economics-and-expansion-tiers.md) — implementation / design constraints

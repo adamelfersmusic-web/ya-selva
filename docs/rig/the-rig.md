@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 # The rig
 
 **One rig. Many worlds. From living room to Red Rocks.**

@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: canonical (doc_type: canonical-visual-synthesis) — pulled from Parachute vault break-this-loop/ya-selva-and-break-this-loop-two-wings -->
 
 # Ya Selva + Break This Loop — Two Wings of the Same Organism
@@ -49,10 +54,10 @@ This note explains the poster graphic below — a visual synthesis of how the tw
 
 This note is narrower and newer: it names **the distributed ensemble specifically as the bridge mechanism** between the two — the thing that turns Ya Selva's solo travel into Break This Loop's participation architecture, city by city. It did not exist as a concept when the master connection note was written.
 
-See: [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md)
+See: [`../live/the-distributed-ensemble.md`](../../live/the-distributed-ensemble.md)
 
 ## Related
 
-- [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture
+- [`../live/the-distributed-ensemble.md`](../../live/the-distributed-ensemble.md) — canonical performance / touring architecture
 - [`the-connection.md`](the-connection.md) — the master connection note (presence-dependent vs. presence-independent)
-- [`../vision/vision.md`](../vision/vision.md) — canonical vision
+- [`../vision/vision.md`](../../vision/vision.md) — canonical vision

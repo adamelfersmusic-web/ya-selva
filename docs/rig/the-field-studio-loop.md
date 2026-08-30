@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: canonical (doc_type: canonical-rig-principle) — pulled from Parachute vault music/ya-selva/the-field-studio-loop -->
 
 # Ya Selva — The Field / Studio / Stage Loop
@@ -132,11 +137,11 @@ The whole thing remains one process.
 
 ## Related
 
-- [`../vision/vision.md`](../vision/vision.md) — canonical vision
+- [`../vision/vision.md`](../../vision/vision.md) — canonical vision
 - [`one-rig-that-scales.md`](one-rig-that-scales.md) — implementation / design constraints
 - [`physical-economics-and-expansion-tiers.md`](physical-economics-and-expansion-tiers.md) — implementation / design constraints
 - [`ableton-ecosystem.md`](ableton-ecosystem.md) — implementation / design constraints
-- [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
+- [`../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
 
 ## Future one-box middle tier — Push Standalone
 

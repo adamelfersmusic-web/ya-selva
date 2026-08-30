@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 # Ya Selva — The One Archetype
 
 ## The archetype
@@ -235,6 +240,6 @@ It is the pilgrim's path.
 
 ## Related
 
-- [`../vision/vision.md`](../vision/vision.md) — canonical vision
+- [`../vision/vision.md`](../../vision/vision.md) — canonical vision
 - [`north-star.md`](north-star.md) — canonical character
 - [`reference-stack.md`](reference-stack.md) — canonical character

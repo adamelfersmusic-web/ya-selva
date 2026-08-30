@@ -1,3 +1,8 @@
+---
+status: open
+date: 2026-08-25
+---
+
 # Open Questions (for a human, not for an agent to resolve solo)
 
 This file exists so future Claude sessions don't lose track of unresolved calls. Add to it; don't silently resolve items here on your own judgment.

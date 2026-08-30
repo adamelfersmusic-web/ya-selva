@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: canonical-vision — pulled from Parachute vault music/ya-selva/00-vision -->
 
 # Ya Selva — Vision
@@ -366,7 +371,7 @@ A mark.
 
 ## Canonical character reference
 
-For the fastest character-level understanding of Ya Selva, see [`../character/reference-stack.md`](../character/reference-stack.md) and [`../character/the-archetype.md`](../character/the-archetype.md).
+For the fastest character-level understanding of Ya Selva, see [`../character/reference-stack.md`](../docs/character/reference-stack.md) and [`../character/the-archetype.md`](../docs/character/the-archetype.md).
 
 The stack: **The Alchemist + Motorcycle Diaries + Baraka + One Giant Leap + Anthony Bourdain travel work**, carried by a wandering musician with a guitar.
 
@@ -395,9 +400,9 @@ See: [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md
 ## Related
 
 - [`master-vision.md`](master-vision.md) — **locked master vision** — the condensed top-of-canon articulation (Ya Selva + the distributed ensemble + Break This Loop, in one page)
-- [`../character/north-star.md`](../character/north-star.md) — canonical character
-- [`../character/reference-stack.md`](../character/reference-stack.md) — canonical character
-- [`../character/the-archetype.md`](../character/the-archetype.md) — canonical archetype
+- [`../character/north-star.md`](../docs/character/north-star.md) — canonical character
+- [`../character/reference-stack.md`](../docs/character/reference-stack.md) — canonical character
+- [`../character/the-archetype.md`](../docs/character/the-archetype.md) — canonical archetype
 - [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture
-- [`../rig/one-rig-that-scales.md`](../rig/one-rig-that-scales.md) — implementation / design constraints
-- [`ya-selva-vision.html`](../../ya-selva-vision.html) — the designed single-file version of this note
+- [`../rig/one-rig-that-scales.md`](../docs/rig/one-rig-that-scales.md) — implementation / design constraints
+- [`ya-selva-vision.html`](../ya-selva-vision.html) — the designed single-file version of this note

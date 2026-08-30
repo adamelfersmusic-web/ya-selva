@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 # YA SELVA — Design System
 
 ## Purpose

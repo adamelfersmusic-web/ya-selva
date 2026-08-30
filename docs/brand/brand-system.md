@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-07
+---
+
 # Brand System — how the two identities connect
 
 ## The billing line

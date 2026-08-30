@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 # Ya Selva — Character Reference Stack
 
 ## Canonical character vision
@@ -173,6 +178,6 @@ And the character question:
 
 ## Related
 
-- [`../vision/vision.md`](../vision/vision.md) — canonical vision
+- [`../vision/vision.md`](../../vision/vision.md) — canonical vision
 - [`north-star.md`](north-star.md) — canonical character
 - [`the-archetype.md`](the-archetype.md) — canonical archetype

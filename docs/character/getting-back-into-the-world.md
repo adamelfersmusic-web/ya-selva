@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: living (doc_type: practice-note) — pulled from Parachute vault music/ya-selva/getting-back-into-the-world -->
 
 # Ya Selva — Getting Back Into the World
@@ -194,7 +199,7 @@ Do not optimize this into a rigid routine yet. First make leaving easy and let t
 
 ## Related
 
-- [`../vision/vision.md`](../vision/vision.md) — canonical vision
+- [`../vision/vision.md`](../../vision/vision.md) — canonical vision
 - [`north-star.md`](north-star.md) — canonical character
 - [`../rig/build-the-grab-and-go-field-bag.md`](../rig/build-the-grab-and-go-field-bag.md) — next step
 - [`../connection/the-permission-asymmetry.md`](../connection/the-permission-asymmetry.md) — why BTL stalled

@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: canonical (doc_type: canonical-rig-option) — pulled from Parachute vault music/ya-selva/push-standalone-future-one-box-rig -->
 
 # Ya Selva — Push Standalone as a Future One-Box Rig
@@ -142,11 +147,11 @@ The goal remains:
 
 > **world-class concert capability with a core rig small enough to travel almost anywhere.**
 
-And critically, that small core becomes the stable spine around which the [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) can activate locally.
+And critically, that small core becomes the stable spine around which the [`../live/the-distributed-ensemble.md`](../../live/the-distributed-ensemble.md) can activate locally.
 
 ## Related
 
 - [`the-field-studio-loop.md`](the-field-studio-loop.md) — implementation / design constraints
 - [`physical-economics-and-expansion-tiers.md`](physical-economics-and-expansion-tiers.md) — implementation / design constraints
-- [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture
-- [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
+- [`../live/the-distributed-ensemble.md`](../../live/the-distributed-ensemble.md) — canonical performance / touring architecture
+- [`../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture

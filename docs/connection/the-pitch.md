@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-07
+---
+
 # The Pitch — credential, demonstration, reach-out
 
 ## Two credibility assets, not equal

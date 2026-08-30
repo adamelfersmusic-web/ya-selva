@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-07
+---
+
 # The Host Model — how BTL becomes presence-independent
 
 ## The move

@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: canonical (doc_type: character-north-star) — pulled from Parachute vault music/ya-selva/character-north-star -->
 
 # Ya Selva — Character North Star
@@ -472,6 +477,6 @@ This is enough consistency to become recognizable without becoming formulaic.
 
 ## Related
 
-- [`../vision/vision.md`](../vision/vision.md) — canonical vision
+- [`../vision/vision.md`](../../vision/vision.md) — canonical vision
 - [`reference-stack.md`](reference-stack.md) — canonical character
 - [`the-archetype.md`](the-archetype.md) — canonical archetype

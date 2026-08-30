@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-07
+---
+
 # UNDERPASS — the secret show
 
 `UNDERPASS 001 — location undisclosed`

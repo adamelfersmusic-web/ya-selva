@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-29
+---
+
 # Studio Fabric Spec — the textile shell
 
 Spec. 2026-08-29.

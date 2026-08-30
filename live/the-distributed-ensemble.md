@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: canonical (doc_type: canonical-performance-architecture, status: living) — pulled from Parachute vault music/ya-selva/the-distributed-ensemble -->
 
 # Ya Selva — The Distributed Ensemble
@@ -151,8 +156,8 @@ The current distributed-ensemble model is a more developed version of that same 
 - [`../vision/master-vision.md`](../vision/master-vision.md) — **locked master vision** — the condensed top-of-canon articulation
 - [`../vision/five-guardrails.md`](../vision/five-guardrails.md) — locked canonical guardrails
 - [`../vision/vision.md`](../vision/vision.md) — canonical vision
-- [`../rig/one-rig-that-scales.md`](../rig/one-rig-that-scales.md) — implementation / design constraints
-- [`../rig/physical-economics-and-expansion-tiers.md`](../rig/physical-economics-and-expansion-tiers.md) — implementation / design constraints
-- [`../rig/push-standalone-one-box-rig.md`](../rig/push-standalone-one-box-rig.md) — canonical rig option
+- [`../rig/one-rig-that-scales.md`](../docs/rig/one-rig-that-scales.md) — implementation / design constraints
+- [`../rig/physical-economics-and-expansion-tiers.md`](../docs/rig/physical-economics-and-expansion-tiers.md) — implementation / design constraints
+- [`../rig/push-standalone-one-box-rig.md`](../docs/rig/push-standalone-one-box-rig.md) — canonical rig option
 - [`../vision/the-through-line.md`](../vision/the-through-line.md) — historical context (break-this-loop/the-through-line)
-- [`../connection/two-wings.md`](../connection/two-wings.md) — visual synthesis poster: this note as the bridge between the two projects
+- [`../connection/two-wings.md`](../docs/connection/two-wings.md) — visual synthesis poster: this note as the bridge between the two projects

@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: idea / exploratory (doc_type: technical-exploration) — pulled from Parachute vault music/ya-selva/ableton-ai-agent-feasibility -->
 <!-- status: idea — not built, worth prototyping, not yet prototyped. -->
 
@@ -25,7 +30,7 @@ MIDI is symbolic data — a list of note events (pitch, start time, duration, ve
 
 **Audio is not.** A recorded guitar take, a vocal, a field recording — these are waveforms with no discrete "notes" for a model to read or generate. There is no audio perception in this pipeline at all: no frequency analysis, no timbre judgment, no listening. This is a hard, permanent boundary of the architecture, not a maturity gap that improves later.
 
-Practical consequence: **this tool only ever sees the parts of a Ya Selva track that are programmed as MIDI.** The guitar and voice — the actual irreducible core of the project per [`../vision/master-vision.md`](../vision/master-vision.md) — are structurally invisible to it. A track built from live guitar and voice would show up as a blank in any arrangement-level analysis.
+Practical consequence: **this tool only ever sees the parts of a Ya Selva track that are programmed as MIDI.** The guitar and voice — the actual irreducible core of the project per [`../vision/master-vision.md`](../../vision/master-vision.md) — are structurally invisible to it. A track built from live guitar and voice would show up as a blank in any arrangement-level analysis.
 
 ## What an agent could plausibly do (in ascending order of ambition)
 
@@ -70,7 +75,7 @@ Worth prototyping the v0.1 loop (one clip, one sparser/downbeat-preserving varia
 
 ## Related
 
-- [`../vision/master-vision.md`](../vision/master-vision.md) — locked master vision
+- [`../vision/master-vision.md`](../../vision/master-vision.md) — locked master vision
 - [`../rig/the-field-studio-loop.md`](../rig/the-field-studio-loop.md) — field mode / studio mode / full-rig mode as one continuous loop
 - [`../rig/one-rig-that-scales.md`](../rig/one-rig-that-scales.md) — the Ableton Move-first everyday rig
 - [`../rig/ableton-ecosystem.md`](../rig/ableton-ecosystem.md) — Note → Move → Live/Push ecosystem

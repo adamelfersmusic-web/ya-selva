@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: historical context (doc_type: reflection, status: living) — pulled from Parachute vault break-this-loop/the-through-line -->
 <!-- This is a Break This Loop note, not a Ya Selva-specific note. It is mirrored here because it is the historical/strategic lineage that the distributed-ensemble model (docs/23) grew out of, and because it directly names the open question of Ya Selva's relationship to Break This Loop. -->
 
@@ -116,5 +121,5 @@ They accrete around someone who is already visibly doing the thing. Playing for 
 ## Related
 
 - [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture (the matured version of this lineage's "ensemble" answer)
-- [`../connection/the-connection.md`](../connection/the-connection.md) — the connection, artist ↔ movement
+- [`../connection/the-connection.md`](../docs/connection/the-connection.md) — the connection, artist ↔ movement
 - [`vision.md`](vision.md) — canonical vision

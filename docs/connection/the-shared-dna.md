@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-29
+---
+
 # The Shared DNA — Ya Selva ⟷ Break This Loop
 
 Synthesis. 2026-08-28.

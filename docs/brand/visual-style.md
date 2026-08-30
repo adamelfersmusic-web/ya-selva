@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 # Ya Selva — Visual Style
 
 ## A field guide for future graphics

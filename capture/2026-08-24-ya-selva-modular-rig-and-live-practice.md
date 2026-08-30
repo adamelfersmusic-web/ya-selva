@@ -1,3 +1,8 @@
+---
+status: capture
+date: 2026-08-25
+---
+
 <!-- provenance: raw-capture (status: raw) — pulled from Parachute vault _captures/2026-08-24-ya-selva-modular-rig-and-live-practice -->
 <!-- This file is a raw, unedited capture. It is NOT canonical. It is preserved verbatim as source material that the canonical docs (docs/vision/vision.md, docs/rig/one-rig-that-scales.md, docs/rig/the-field-studio-loop.md, docs/rig/physical-economics-and-expansion-tiers.md) were synthesized from. Do not treat this file as governing guidance on its own — see those docs for the canonical version. -->
 
@@ -183,7 +188,7 @@ That is close to the practical assignment of Ya Selva.
 
 ## Related
 
-- [`../docs/vision/vision.md`](../docs/vision/vision.md) — canonical vision
+- [`../docs/vision/vision.md`](../vision/vision.md) — canonical vision
 - [`../docs/rig/one-rig-that-scales.md`](../docs/rig/one-rig-that-scales.md) — implementation / design constraints
 - [`../docs/rig/the-field-studio-loop.md`](../docs/rig/the-field-studio-loop.md) — implementation / design constraints
 - [`../docs/rig/physical-economics-and-expansion-tiers.md`](../docs/rig/physical-economics-and-expansion-tiers.md) — implementation / design constraints

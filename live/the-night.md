@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-07
+---
+
 # The night — run of show
 
 The workshop is the opening act. The recording happens inside the experience,

@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-29
+---
+
 # Shared Raw Material — the collection-consent rule
 
 Rule. 2026-08-28.

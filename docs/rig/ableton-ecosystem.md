@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 # Ya Selva — Ableton Ecosystem
 
 ## Purpose

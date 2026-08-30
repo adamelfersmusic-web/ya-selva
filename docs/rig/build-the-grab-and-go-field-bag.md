@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: active (doc_type: next-step) — pulled from Parachute vault music/ya-selva/build-the-grab-and-go-field-bag -->
 
 # Ya Selva — Build the Grab-and-Go Field Bag

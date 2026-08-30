@@ -1,3 +1,8 @@
+---
+status: locked
+date: 2026-08-25
+---
+
 <!-- provenance: canonical, LOCKED (doc_type: master-vision) — pulled from Parachute vault music/ya-selva/00-master-vision -->
 <!-- status: locked — this is the current top-level articulation, not a loose working note. Changes here should be deliberate. -->
 
@@ -69,7 +74,7 @@ It is a **distributed living ensemble**, a musical archive of relationships, and
 - [`vision.md`](vision.md) — canonical vision (full version)
 - [`five-guardrails.md`](five-guardrails.md) — locked canonical guardrails
 - [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture
-- [`../rig/one-rig-that-scales.md`](../rig/one-rig-that-scales.md) — implementation / design constraints
-- [`../rig/push-standalone-one-box-rig.md`](../rig/push-standalone-one-box-rig.md) — canonical rig option
+- [`../rig/one-rig-that-scales.md`](../docs/rig/one-rig-that-scales.md) — implementation / design constraints
+- [`../rig/push-standalone-one-box-rig.md`](../docs/rig/push-standalone-one-box-rig.md) — canonical rig option
 - [`the-through-line.md`](the-through-line.md) — historical context (break-this-loop/the-through-line)
-- [`../connection/two-wings.md`](../connection/two-wings.md) — visual synthesis poster
+- [`../connection/two-wings.md`](../docs/connection/two-wings.md) — visual synthesis poster

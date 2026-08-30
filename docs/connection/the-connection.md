@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-07
+---
+
 # Ya Selva → Break This Loop — the connection
 
 Canonical. 2026-08-07.
@@ -78,4 +83,4 @@ The breakout rooms are the isolation booth, disguised as an experience.
 ## Related
 
 - [`two-wings.md`](two-wings.md) — visual synthesis poster, the distributed ensemble as the bridge between the two projects
-- [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture
+- [`../live/the-distributed-ensemble.md`](../../live/the-distributed-ensemble.md) — canonical performance / touring architecture

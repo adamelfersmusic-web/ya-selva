@@ -8,7 +8,7 @@ Explorer archetype — Alan Lomax × Xavier Rudd; Paul Simon and Walt Whitman wi
 > 🔒 **A moving musical center small enough to travel anywhere, porous enough to become larger through every place it touches.**
 > **Ya Selva carries the spine. The ensemble lives in the world.**
 >
-> The locked master vision → [`docs/vision/master-vision.md`](docs/vision/master-vision.md)
+> The locked master vision → [`vision/master-vision.md`](vision/master-vision.md)
 
 ## The five named things
 
@@ -32,24 +32,32 @@ BTL         runs without you — that IS its definition
 
 ## Start here
 
+> ### 📕 [`000_CANON.md`](000_CANON.md) — read this first.
+> It holds what is LOCKED, what is in WORKSHOP, what is OPEN, the active front and
+> the next actions. **Anything in this repo that contradicts a LOCKED item in CANON
+> is out of date.** CANON is the only file that states decision state.
+>
+> ⛔ The current CANON is a **draft Claude assembled on 2026-08-30** — the real one
+> was never in this repo. Nothing in it is locked until Adam ratifies it.
+
 | | |
 |---|---|
-| 🔒 [`docs/vision/master-vision.md`](docs/vision/master-vision.md) | **top of canon.** One page. The spine travels, the world supplies the body. |
-| 🔒 [`docs/vision/five-guardrails.md`](docs/vision/five-guardrails.md) | the rules that keep the master vision from drifting |
-| [`docs/live/the-distributed-ensemble.md`](docs/live/the-distributed-ensemble.md) | the governing performance architecture — same spine, different body |
+| 🔒 [`vision/master-vision.md`](vision/master-vision.md) | **top of canon.** One page. The spine travels, the world supplies the body. |
+| 🔒 [`vision/five-guardrails.md`](vision/five-guardrails.md) | the rules that keep the master vision from drifting |
+| [`live/the-distributed-ensemble.md`](live/the-distributed-ensemble.md) | the governing performance architecture — same spine, different body |
 | [`the-map.html`](the-map.html) | **do this first** — facilitator map tool. Add rows, auto-tier, export CSV. |
 
-## docs/
+## The files
 
 Grouped by subject. 🔒 = locked; change deliberately.
 
 ### `vision/` — what this is
 | | |
 |---|---|
-| 🔒 [`master-vision.md`](docs/vision/master-vision.md) | condensed top-of-canon articulation |
-| [`vision.md`](docs/vision/vision.md) | the full-length vision — aliveness as compass, "find the pulse, follow it, make something real, leave the signal" |
-| 🔒 [`five-guardrails.md`](docs/vision/five-guardrails.md) | core show works alone · expansion adds, never rescues · carry the spine, source the body · preserve mobility · every scale is the same organism |
-| [`the-through-line.md`](docs/vision/the-through-line.md) | the 25-year lineage — ensemble at 17, the same answer now, and why BTL v2 stalled |
+| 🔒 [`master-vision.md`](vision/master-vision.md) | condensed top-of-canon articulation |
+| [`vision.md`](vision/vision.md) | the full-length vision — aliveness as compass, "find the pulse, follow it, make something real, leave the signal" |
+| 🔒 [`five-guardrails.md`](vision/five-guardrails.md) | core show works alone · expansion adds, never rescues · carry the spine, source the body · preserve mobility · every scale is the same organism |
+| [`the-through-line.md`](vision/the-through-line.md) | the 25-year lineage — ensemble at 17, the same answer now, and why BTL v2 stalled |
 
 ### `character/` — who he is
 | | |
@@ -73,10 +81,10 @@ Grouped by subject. 🔒 = locked; change deliberately.
 ### `live/` — the room
 | | |
 |---|---|
-| [`the-distributed-ensemble.md`](docs/live/the-distributed-ensemble.md) | **major** — spine travels, ensemble lives in the world; the tour becomes part of the composition |
-| [`the-night.md`](docs/live/the-night.md) | run of show, capture protocol |
-| [`underpass.md`](docs/live/underpass.md) | the secret show |
-| [`the-map.md`](docs/live/the-map.md) | the facilitator map — city, relationship, room size, drive time |
+| [`the-distributed-ensemble.md`](live/the-distributed-ensemble.md) | **major** — spine travels, ensemble lives in the world; the tour becomes part of the composition |
+| [`the-night.md`](live/the-night.md) | run of show, capture protocol |
+| [`underpass.md`](live/underpass.md) | the secret show |
+| [`the-map.md`](live/the-map.md) | the facilitator map — city, relationship, room size, drive time |
 
 ### `rig/` — what he carries
 | | |
@@ -105,14 +113,22 @@ Grouped by subject. 🔒 = locked; change deliberately.
 |---|---|
 | [`ableton-ai-agent-feasibility.md`](docs/explorations/ableton-ai-agent-feasibility.md) | LLM agent on Ableton MIDI clips — technically real, MIDI-only, unproven |
 
+### Awaiting placement
+
+`method/` `songs/` `market/` `study/` `writing/` are created and empty. The five
+groups still under `docs/` — rig, character, connection, brand, explorations —
+belong somewhere in them, but **CANON's index is what decides that**, and CANON
+was missing. See *Needs your ruling* in [`000_CANON.md`](000_CANON.md).
+
 ### Also in `docs/`
 [`_open-questions.md`](docs/_open-questions.md) — unresolved calls for a human. **Don't silently resolve these.**
 
-## captures/
+## capture/
 
-Raw, unedited, **not canonical.** Source material the docs were synthesized from.
+**Append-only.** Raw, unedited, in Adam's voice, **not canonical.** Source material
+the docs were synthesized from. Never edited, never summarized in place.
 
-- [`2026-08-24-ya-selva-modular-rig-and-live-practice.md`](captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md)
+- [`2026-08-24-ya-selva-modular-rig-and-live-practice.md`](capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md)
 
 ## Pages
 

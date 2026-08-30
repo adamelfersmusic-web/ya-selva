@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 <!-- provenance: canonical (doc_type: canonical-rig-architecture) — pulled from Parachute vault music/ya-selva/rig-physical-economics-and-expansion-tiers -->
 
 # Ya Selva — Rig Physical Economics and Expansion Tiers
@@ -245,16 +250,16 @@ This portable spine also enables the distributed-ensemble model:
 
 The core show travels complete. Local musicians, dancers, voices, rhythms, and field material expand it in each place.
 
-See: [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md)
+See: [`../live/the-distributed-ensemble.md`](../../live/the-distributed-ensemble.md)
 
 ## Related
 
 - [`the-field-studio-loop.md`](the-field-studio-loop.md) — implementation / design constraints
 - [`one-rig-that-scales.md`](one-rig-that-scales.md) — implementation / design constraints
 - [`build-the-grab-and-go-field-bag.md`](build-the-grab-and-go-field-bag.md) — next step
-- [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture
-- [`../vision/five-guardrails.md`](../vision/five-guardrails.md) — locked canonical guardrails
-- [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
+- [`../live/the-distributed-ensemble.md`](../../live/the-distributed-ensemble.md) — canonical performance / touring architecture
+- [`../vision/five-guardrails.md`](../../vision/five-guardrails.md) — locked canonical guardrails
+- [`../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
 
 ## Dependency friction
 

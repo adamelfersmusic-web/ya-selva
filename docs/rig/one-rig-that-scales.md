@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-25
+---
+
 # Ya Selva — The One Rig That Scales
 
 ## Purpose
@@ -472,10 +477,10 @@ See: [`build-the-grab-and-go-field-bag.md`](build-the-grab-and-go-field-bag.md)
 
 ## Related
 
-- [`../vision/vision.md`](../vision/vision.md) — canonical vision
+- [`../vision/vision.md`](../../vision/vision.md) — canonical vision
 - [`the-field-studio-loop.md`](the-field-studio-loop.md) — implementation / design constraints
 - [`physical-economics-and-expansion-tiers.md`](physical-economics-and-expansion-tiers.md) — implementation / design constraints
 - [`ableton-ecosystem.md`](ableton-ecosystem.md) — implementation / design constraints
 - [`build-the-grab-and-go-field-bag.md`](build-the-grab-and-go-field-bag.md) — next step
 - [`../character/getting-back-into-the-world.md`](../character/getting-back-into-the-world.md) — practice note
-- [`../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../captures/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture
+- [`../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md`](../../capture/2026-08-24-ya-selva-modular-rig-and-live-practice.md) — raw capture

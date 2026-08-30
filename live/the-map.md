@@ -1,3 +1,8 @@
+---
+status: workshop
+date: 2026-08-07
+---
+
 # THE MAP — the facilitator network
 
 **The single next action.** Zero creative energy required — it is recall, not invention.
