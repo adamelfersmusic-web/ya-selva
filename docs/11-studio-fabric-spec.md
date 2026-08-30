@@ -8,7 +8,7 @@ Buying spec for the fabric that lines the Ya Selva studio.
 |---|---|
 | `images/moodboard-studio-ochre-layer-order.png` | **the build** — the four textile layers, named and in order |
 | `images/moodboard-studio-ochre-zones.png` | the zones + palette, textiles and materials called out |
-| `images/mockup-studio-ochre-base.png` | **the current lean** — ochre base, black curtains, green as layers |
+| `images/mockup-studio-ochre-base.png` | **the decided direction** — ochre base, black curtains, green as layers |
 | `images/mockup-studio-night-full-room.png` | the all-green version — the room at night |
 | `images/mockup-studio-fabric-backdrop.png` | the banner on the desk wall, mudcloth side panels |
 
@@ -16,9 +16,9 @@ The goal is not "green walls." The goal is a matte textile shell that kills the
 basement-white feeling, absorbs light and some reflections, and lets the banner,
 lighting, plants, and gear emerge.
 
-## The base decision — leaning ochre
+## The base decision — ochre
 
-**Status: leaning, not locked. 2026-08-30.**
+**Status: DECIDED. 2026-08-30. The base layer will be ochre.**
 
 The all-green version is immersive, but it pushes hard toward cave / stage /
 nighttime jungle. The ochre world has more life — warmth, daylight, wood, skin,
@@ -215,7 +215,7 @@ small    controlled accents of burnt orange / ochre / amber
 tiny     teal — and only when created by lighting
 ```
 
-**Ochre-base version (the current lean):**
+**Ochre-base version (the decided one):**
 
 ```
 40–50%   ochre / tobacco / clay — the base
@@ -272,16 +272,75 @@ it's the opposite. Test it twice:
 Sheen test still applies, harder than anywhere else — this is the largest lit surface
 in the room.
 
+## Sourcing the base layer
+
+**Curtains are the wrong mental model.** What we want is a flatter, more wall-like
+textile field.
+
+```
+REMOVABLE TEXTILE WALL — NOT WINDOW CURTAIN.
+```
+
+Search that way and the results change completely.
+
+### Material target
+
+```
+8–10 OZ COTTON DUCK · HEAVY MUSLIN · WASHED CANVAS · HEAVY COTTON TWILL
+```
+
+That's the sweet spot. Heavy enough to hang with broad soft waves or nearly flat,
+but not so heavy that mounting it becomes a pain.
+
+### Search terms
+
+```
+cotton duck canvas fabric by the yard ochre
+10 oz cotton canvas mustard fabric
+washed canvas fabric tobacco brown
+heavy cotton muslin ochre
+linen look upholstery fabric mustard
+matte cotton fabric camel by the yard
+theater backdrop fabric ochre
+stage backdrop muslin mustard
+scenic canvas fabric by the yard
+cotton twill fabric ochre
+```
+
+**When results get too shiny or curtain-y, add:** matte · heavyweight · washed ·
+natural texture · 54–60 inch wide · by the yard · non-stretch · upholstery · duck
+cloth · muslin · scenic · backdrop.
+
+### Color words
+
+Search the color as **ochre, tobacco, camel, rust, golden brown, antique gold, burnt
+mustard, clay** — not "yellow." Yellow returns a different fabric world entirely.
+
+### Avoid
+
+```
+satin · velvet · blackout curtain · broadcloth · sheer
+polyester drape · crushed anything
+```
+
+Note that velvet is on this list for the base layer even though it tops the material
+list for the *dark* layers. Different job: the dark layers absorb, the base layer is
+a lit surface that has to read as an aged wall.
+
 ## Buying instruction
 
 **The next purchase** is one large matte ochre/tobacco textile for a major white
 wall. Hand this to whoever is sourcing it:
 
-> Heavy, matte, non-reflective textile in a warm dusty earth tone — ochre, tobacco,
-> raw sienna, clay. Aged and sun-faded rather than bright or new-looking. Natural
-> surface texture preferred. No sheen, no yellow-bright mustard, no orange-bright
-> terracotta, nothing pale enough to read as beige. It will be the largest lit
-> surface in the room, so judge it under warm lamplight, not daylight.
+> 8–10 oz cotton duck, heavy muslin, washed canvas, or heavy cotton twill — by the
+> yard, 54–60" wide, non-stretch — in a warm dusty earth tone: ochre, tobacco, camel,
+> clay, golden brown, antique gold, burnt mustard. Aged and sun-faded rather than
+> bright or new-looking. Matte, natural surface texture. No sheen, no satin, velvet,
+> blackout curtain, broadcloth, sheer, polyester drape or crushed finish. Nothing
+> yellow-bright, nothing orange-bright, nothing pale enough to read as beige. This is
+> a removable textile wall, not a window curtain — it should hang nearly flat or in
+> broad soft waves. It will be the largest lit surface in the room, so judge it in
+> both daylight and warm lamplight.
 
 For the dark layers — curtains, the selected green sections, side walls:
 
