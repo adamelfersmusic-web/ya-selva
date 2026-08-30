@@ -6,17 +6,90 @@ Buying spec for the fabric that lines the Ya Selva studio.
 
 | reference | what it shows |
 |---|---|
+| `images/mockup-studio-ochre-base.png` | **the current lean** — ochre base, black curtains, green as layers |
+| `images/mockup-studio-night-full-room.png` | the all-green version — the room at night |
 | `images/mockup-studio-fabric-backdrop.png` | the banner on the desk wall, mudcloth side panels |
-| `images/mockup-studio-night-full-room.png` | the whole room at night — this is the target |
 
-The night shot is the pass condition made visible: walls gone to black, banner
-emerging, warm lamps carrying the ochre, teal only where the lighting puts it.
-
-The goal is not "green walls." The goal is a dark, matte textile shell that kills the
+The goal is not "green walls." The goal is a matte textile shell that kills the
 basement-white feeling, absorbs light and some reflections, and lets the banner,
-lighting, plants, and gear emerge from darkness.
+lighting, plants, and gear emerge.
 
-## Base wall fabric
+## The base decision — leaning ochre
+
+**Status: leaning, not locked. 2026-08-30.**
+
+The all-green version is immersive, but it pushes hard toward cave / stage /
+nighttime jungle. The ochre world has more life — warmth, daylight, wood, skin,
+instruments, travel, old paper, dust, sun. It still gives jungle once the dark green
+and black layer over it, but it doesn't make the room feel closed in.
+
+For Ya Selva specifically this is more aligned with the wandering-bard thing. **Earth
+and jungle, not just jungle.**
+
+```
+2 PM    sun-baked traveler studio — alive without theatrical lighting
+NIGHT   drop the lights, black curtains + green plants take over — ritual jungle stage
+```
+
+Same room. No changes between the two.
+
+### The layered palette
+
+| layer | what |
+|---|---|
+| base | ochre / tobacco / clay — walls or large textiles |
+| deepest | black curtains |
+| green | dark forest, **selected sections only** |
+| wood | natural, everywhere it already is |
+| accents | burnt orange / rust / saffron |
+| the real green | plants — the only saturated green in the room |
+| teal | tiny accent light, only when wanted |
+
+### What this changes about the next move
+
+It gets easier. Instead of hunting for the perfect near-black green to cover
+everything:
+
+```
+FIND ONE LARGE MATTE OCHRE/TOBACCO TEXTILE FOR A MAJOR WHITE WALL.
+SEE WHAT HAPPENS. THEN LAYER DARKNESS AROUND IT.
+```
+
+One purchase, one wall, reversible. The darkness gets added around a base that's
+already working rather than committed to up front.
+
+### What still holds from the all-green spec
+
+Everything below is unchanged in substance — it now describes **the dark layers**
+(curtains, the selected green sections, side walls) rather than the whole shell. The
+material rules, the sheen test, the low-contrast pattern rule, the acoustic spec, and
+the swatch protocol all apply to the ochre textile too: matte, heavy, no sheen, judged
+in the room under the room's own light.
+
+The one thing that changes is proportion. The all-green hierarchy below assumed
+70–80% near-black; under the ochre base, see **Visual hierarchy** for both versions.
+
+## The ochre base — color
+
+**Color.** Warm, dusty, unsaturated. Sun-baked, not sunny. Target neighborhood:
+
+```
+ochre · tobacco · raw sienna · clay · dried mud · old paper
+```
+
+Roughly `#8A5A2B`–`#B4834A` as a visual target — same warning as below: **don't buy
+by hex.** It should read as *aged earth*, warm without going orange, and hold its
+warmth under lamplight without turning garish.
+
+Avoid mustard, anything yellow-bright, terracotta that reads as new tile, peach, and
+any tan so pale it brings the basement-white feeling back.
+
+Matte matters more here than anywhere. This is the largest lit surface in the room —
+sheen on it will be visible from every angle at every hour.
+
+## The dark layers — color
+
+Curtains, the selected green sections, and side walls.
 
 **Color.** Near-black, desaturated forest green. Target neighborhood:
 
@@ -52,12 +125,17 @@ conspicuous bright streak, don't buy it.
 
 ## Wall plan
 
-**Back wall / desk wall.** Deep near-black forest green, preferably mostly solid.
-This is where the large Ya Selva fabric banner goes. The banner is the
-highest-contrast, highest-information textile in the room.
+**Back wall / desk wall.** The dark layer, mostly solid — black curtain or deep
+near-black forest green. This is where the large Ya Selva fabric banner goes. The
+banner is the highest-contrast, highest-information textile in the room, and it needs
+darkness immediately behind it in either version.
 
-**Side walls.** Either blackened green, charcoal-black, extremely dark indigo, or a
-mixture. Pattern is absolutely allowed — mudcloth-inspired, woven geometric,
+**The major white wall.** Ochre/tobacco. This is the first purchase and the whole
+test of the ochre direction — one large matte textile, see what the room does.
+
+**Side walls.** Under the ochre base: ochre, or ochre broken by a dark hanging.
+Under the all-green version: blackened green, charcoal-black, extremely dark indigo,
+or a mixture. Pattern is absolutely allowed — mudcloth-inspired, woven geometric,
 block-print — but it must be low contrast. From 8–10 feet away the pattern should
 largely disappear and read as texture.
 
@@ -87,6 +165,8 @@ reflections; **it is not a substitute for bass traps.**
 
 The room should read approximately:
 
+**All-green version:**
+
 ```
 70–80%   near-black / forest / charcoal
 10–20%   natural brown / wood / woven neutrals
@@ -94,7 +174,18 @@ small    controlled accents of burnt orange / ochre / amber
 tiny     teal — and only when created by lighting
 ```
 
-The banner gets to shout. The walls don't.
+**Ochre-base version (the current lean):**
+
+```
+40–50%   ochre / tobacco / clay — the base
+25–35%   black curtain + dark forest green, in selected sections
+10–20%   natural wood / woven neutrals
+small    burnt orange / rust / saffron accents
+plants   the only saturated green in the room
+tiny     teal — and only when created by lighting
+```
+
+Either way: the banner gets to shout. The walls don't.
 
 **Don't try to match every green.** Slight variation among blackened forest, olive,
 charcoal, and indigo makes the room feel collected and organic rather than like you
@@ -126,11 +217,32 @@ What to do with the swatch when it arrives:
    variation between them is the point; make sure it reads as collected, not clashing.
 
 Judge the swatch in the room, at night, under the lights the room will actually use.
-Never under daylight or a phone screen.
+Never under a phone screen.
+
+**The ochre swatch is judged differently.** Its pass condition is not "goes black" —
+it's the opposite. Test it twice:
+
+- **At 2 PM, in whatever daylight the room gets.** Does it read as warm aged earth,
+  or does it go pale and beige? Pale is the failure mode; it brings the
+  basement-white feeling straight back.
+- **At night, under the lamps.** Does it hold warmth without going orange or garish?
+  It should recede and let the banner and plants come forward.
+
+Sheen test still applies, harder than anywhere else — this is the largest lit surface
+in the room.
 
 ## Buying instruction
 
-Hand this to whoever is sourcing:
+**The next purchase** is one large matte ochre/tobacco textile for a major white
+wall. Hand this to whoever is sourcing it:
+
+> Heavy, matte, non-reflective textile in a warm dusty earth tone — ochre, tobacco,
+> raw sienna, clay. Aged and sun-faded rather than bright or new-looking. Natural
+> surface texture preferred. No sheen, no yellow-bright mustard, no orange-bright
+> terracotta, nothing pale enough to read as beige. It will be the largest lit
+> surface in the room, so judge it under warm lamplight, not daylight.
+
+For the dark layers — curtains, the selected green sections, side walls:
 
 > Heavy, matte, light-absorbing textile in near-black desaturated forest/olive green,
 > charcoal-black, or extremely dark indigo. Natural-looking surface texture preferred.
