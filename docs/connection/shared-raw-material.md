@@ -2,7 +2,7 @@
 
 Rule. 2026-08-28.
 
-Operational addendum to `09-the-shared-dna.md`. Small rule, cheap to hold, annoying to
+Operational addendum to `the-shared-dna.md`. Small rule, cheap to hold, annoying to
 reconstruct later.
 
 ## The question Adam raised
@@ -66,7 +66,7 @@ existed.
 
 ## Why this reinforces rather than complicates
 
-Same principle as `09-the-shared-dna.md`, applied operationally. If the shared DNA is
+Same principle as `the-shared-dna.md`, applied operationally. If the shared DNA is
 **people making music together**, then telling people up front where their sound might
 travel *is* the participatory posture. Asking afterward is the extractive one.
 
@@ -74,7 +74,7 @@ It also strengthens the Ya Selva practice: he's out there recording anyway — g
 meet people, listen, make something public. The rule costs nothing and converts every
 trip into material for both projects.
 
-Sits alongside rule 6 in `01-the-connection.md`: **credit, consent, compensation from
+Sits alongside rule 6 in `the-connection.md`: **credit, consent, compensation from
 day one.** This is what that looks like at the moment of recording.
 
 ## Open

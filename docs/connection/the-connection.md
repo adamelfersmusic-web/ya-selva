@@ -74,3 +74,8 @@ The breakout rooms are the isolation booth, disguised as an experience.
 5. Seeding is legitimate; pretending it's live is not.
 6. Credit, consent, compensation from day one.
 7. Historic accumulates. It doesn't arrive.
+
+## Related
+
+- [`two-wings.md`](two-wings.md) — visual synthesis poster, the distributed ensemble as the bridge between the two projects
+- [`../live/the-distributed-ensemble.md`](../live/the-distributed-ensemble.md) — canonical performance / touring architecture

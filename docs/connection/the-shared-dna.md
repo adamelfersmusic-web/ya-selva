@@ -2,7 +2,7 @@
 
 Synthesis. 2026-08-28.
 
-The connective tissue between the two projects. `01-the-connection.md` says how they
+The connective tissue between the two projects. `the-connection.md` says how they
 relate structurally (presence-dependent vs presence-independent). This says what they
 are made of — the thing underneath both.
 
@@ -148,7 +148,7 @@ anything like node one.
 
 ---
 
-Operational addendum: `10-shared-raw-material.md` — the collection-consent rule.
+Operational addendum: `shared-raw-material.md` — the collection-consent rule.
 
 Source of truth: Parachute vault, `music/ya-selva-btl-shared-dna`. This file is a frozen
 extract.
