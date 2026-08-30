@@ -6,6 +6,8 @@ Buying spec for the fabric that lines the Ya Selva studio.
 
 | reference | what it shows |
 |---|---|
+| `images/moodboard-studio-ochre-layer-order.png` | **the build** — the four textile layers, named and in order |
+| `images/moodboard-studio-ochre-zones.png` | the zones + palette, textiles and materials called out |
 | `images/mockup-studio-ochre-base.png` | **the current lean** — ochre base, black curtains, green as layers |
 | `images/mockup-studio-night-full-room.png` | the all-green version — the room at night |
 | `images/mockup-studio-fabric-backdrop.png` | the banner on the desk wall, mudcloth side panels |
@@ -45,6 +47,40 @@ Same room. No changes between the two.
 | the real green | plants — the only saturated green in the room |
 | teal | tiny accent light, only when wanted |
 
+Named out as swatches:
+
+```
+TOBACCO / OCHRE · TAN / CLAY · RUST / TERRACOTTA
+MOSS GREEN · FOREST GREEN · EBONY BLACK · WARM WOOD
+```
+
+Materials that carry it: raw/worn wood · leather · ceramic + clay · brass/copper ·
+plants · warm light.
+
+### The wall build — four layers
+
+Not one fabric. A stack, hung in this order:
+
+| | layer | how |
+|---|---|---|
+| 1 | **tobacco/ochre matte cotton** | the wall field — hung fairly flat |
+| 2 | **brown mud cloth** | off-center, adds pattern + soul |
+| 3 | **moss green open-weave gauze** | draped loosely |
+| 4 | **black / forest curtain** (existing) | overlaps the edges |
+
+Then the foreground does the rest: plants, instruments, wood, warm light.
+
+This is why the ochre direction is cheaper to test than it looks. **Layer 4 already
+exists.** Layer 1 is the one purchase. Layers 2 and 3 are small pieces added on top
+of a wall that already works, and the mud cloth and gauze can arrive whenever.
+
+Off-center is deliberate. A centered mud cloth reads as a hung display; off-center
+reads as a room that accumulated.
+
+Zones the build has to serve, per the moodboard: desk/studio side · instrument/stage
+side · lounge side · window/daylight view. The window side is the one that has to
+survive daylight — see the ochre swatch test.
+
 ### What this changes about the next move
 
 It gets easier. Instead of hunting for the perfect near-black green to cover
@@ -56,7 +92,8 @@ SEE WHAT HAPPENS. THEN LAYER DARKNESS AROUND IT.
 ```
 
 One purchase, one wall, reversible. The darkness gets added around a base that's
-already working rather than committed to up front.
+already working rather than committed to up front. That first textile is layer 1 of
+four — see **The wall build** above.
 
 ### What still holds from the all-green spec
 
@@ -152,6 +189,10 @@ PATTERN CAN BE COMPLEX. CONTRAST CANNOT.
 ## Acoustic / physical spec
 
 Favor heavy fabric with actual mass rather than thin decorative cloth.
+
+The moss-green gauze (layer 3) is the deliberate exception — it's there for depth and
+color, not absorption, and it sits over layers that do the acoustic work. Don't let
+it become the whole surface.
 
 Hang it with some looseness rather than stretching it completely flat. A little
 pleating creates more depth and increases effective surface area. If possible, leave
