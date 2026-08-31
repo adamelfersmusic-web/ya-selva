@@ -44,6 +44,7 @@ BTL         runs without you — that IS its definition
 | `docs/09-the-shared-dna.md` | **the shared DNA** — what Ya Selva and BTL are actually made of |
 | `docs/10-shared-raw-material.md` | the collection-consent rule — raw material shared, releases separate |
 | `docs/11-studio-fabric-spec.md` | the studio textile shell — what fabric to buy |
+| `docs/12-ecstatic-dance-tempo-research.md` | **external** — ChatGPT deep research on ecstatic dance BPM |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
