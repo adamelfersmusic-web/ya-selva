@@ -19,7 +19,7 @@ project: Ya Selva
 | **why it exists** | To test whether the thirdless E–F♯–A–B–D field has real historical precedent |
 | **status** | **Raw. Unedited. Claims not independently verified.** |
 | **also filed as** | `docs/13-pentatonic-field-research.pdf` — the original PDF, unmodified |
-| **the pair** | Same question was also put to Claude — see `14-pentatonic-field-research-claude.md`, which carries the agree/diverge comparison |
+| **the set** | One of three. Claude took the same question in `14-pentatonic-field-research-claude.md` (which carries the comparison); `15-…-celtic-arabic.md` extends it into Celtic and Middle Eastern traditions |
 
 ## Why it's here
 

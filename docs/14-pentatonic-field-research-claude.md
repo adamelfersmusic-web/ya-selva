@@ -17,7 +17,7 @@ counterpart: docs/13-pentatonic-field-research.md
 |---|---|
 | **what** | Deep-research report on the 1–2–4–5–♭7 pentatonic field |
 | **who made it** | **Claude (Anthropic)** — not written by Adam, not written in-house |
-| **the pair** | Same question, put to two models. See `13-pentatonic-field-research.md` (ChatGPT) |
+| **the set** | One of three. `13-pentatonic-field-research.md` (ChatGPT) is the counterpart; `15-…-celtic-arabic.md` is the Celtic / Middle Eastern follow-up |
 | **status** | **Raw. Unedited. Claims not independently verified.** |
 
 ## The two studies
@@ -71,6 +71,18 @@ MODEL B   move the field with the root     A B  D E G        = 1 2 4 5 ♭7
 Doc 14 labels its experiment "Model A" but performs Model B. Its Section 15 item 3
 carries the same slip ("A = root of 1–2–4–5–♭7"). **Use doc 13's arithmetic.** Both
 raw documents are left unedited — this note is the correction.
+
+### The third study settles one of these
+
+`15-pentatonic-field-research-celtic-arabic.md` extends the question into Celtic and
+Middle Eastern traditions and lands a finding neither of these two caught: **both
+reports cite Caporaletti, and neither noticed that his conclusion is the exact target
+field.** His analysis of the 1788 Scottish air "Blythe was she" gives E–F♯–A–B–D with
+E as tonic — 1–2–4–5–♭7 — with the original print's own bass drone on e as emic
+evidence. This report cited Caporaletti only on the Brăiloiu/Arom divide; the ChatGPT
+report ranked him #16 as "analytically debated."
+
+It also independently corroborates the ChatGPT rotation arithmetic flagged above.
 
 **Everything below this line is the report exactly as delivered. Unedited.**
 
