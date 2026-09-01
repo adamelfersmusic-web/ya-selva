@@ -50,6 +50,7 @@ BTL         runs without you — that IS its definition
 | `docs/14-pentatonic-field-research-claude.md` | **external** — **Claude** on the same question, plus the two-study comparison |
 | `docs/15-pentatonic-field-research-celtic-arabic.md` | **external** — Celtic / Middle Eastern follow-up: Highland pipes, maqam, the neutral third |
 | `docs/16-porangui-live-show-tech-rider.md` | **external** — Poranguí live show tech rider, verbatim (Concert V1.3) |
+| `docs/17-modern-one-of-one-sound.md` | **the identity problem** — ancient rhythmic logic, contemporary materials |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
