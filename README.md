@@ -49,6 +49,7 @@ BTL         runs without you — that IS its definition
 | `docs/13-pentatonic-field-research.pdf` | the same report as delivered, unmodified PDF |
 | `docs/14-pentatonic-field-research-claude.md` | **external** — **Claude** on the same question, plus the two-study comparison |
 | `docs/15-pentatonic-field-research-celtic-arabic.md` | **external** — Celtic / Middle Eastern follow-up: Highland pipes, maqam, the neutral third |
+| `docs/16-porangui-live-show-tech-rider.md` | **external** — Poranguí live show tech rider, verbatim (Concert V1.3) |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
