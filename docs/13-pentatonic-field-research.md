@@ -19,6 +19,7 @@ project: Ya Selva
 | **why it exists** | To test whether the thirdless E–F♯–A–B–D field has real historical precedent |
 | **status** | **Raw. Unedited. Claims not independently verified.** |
 | **also filed as** | `docs/13-pentatonic-field-research.pdf` — the original PDF, unmodified |
+| **the pair** | Same question was also put to Claude — see `14-pentatonic-field-research-claude.md`, which carries the agree/diverge comparison |
 
 ## Why it's here
 
@@ -59,6 +60,16 @@ suggestive analogy). Those grades are the most useful thing in it — read them.
   occur* and *the same note is home*. That distinction is the whole study.
 - The `citeturn…` strings are ChatGPT's internal citation tokens — artifacts of
   the export, not links. Left in place so the document stays as delivered.
+
+**Read it against the Claude version.** The two agree on the load-bearing findings —
+"Egyptian pentatonic" is indefensible, thirdless tonic gravity is real and widespread,
+blues owns the flexible third, Aka is a negative case — and split hard on Wassoulou,
+which this report ranks as the single strongest example and the Claude report treats
+as a negative finding. Both cite the same Durán source. The comparison table lives in
+`14-pentatonic-field-research-claude.md`.
+
+This report's Model A / Model B arithmetic is the correct one; the Claude report has
+a slip there. Noted in the comparison.
 
 **Everything below this line is the report exactly as delivered. Unedited.**
 

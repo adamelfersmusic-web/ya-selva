@@ -45,8 +45,9 @@ BTL         runs without you — that IS its definition
 | `docs/10-shared-raw-material.md` | the collection-consent rule — raw material shared, releases separate |
 | `docs/11-studio-fabric-spec.md` | the studio textile shell — what fabric to buy |
 | `docs/12-ecstatic-dance-tempo-research.md` | **external** — ChatGPT deep research on ecstatic dance BPM |
-| `docs/13-pentatonic-field-research.md` | **external** — ChatGPT deep research on the 1–2–4–5–♭7 pentatonic field |
+| `docs/13-pentatonic-field-research.md` | **external** — **ChatGPT** deep research on the 1–2–4–5–♭7 pentatonic field |
 | `docs/13-pentatonic-field-research.pdf` | the same report as delivered, unmodified PDF |
+| `docs/14-pentatonic-field-research-claude.md` | **external** — **Claude** on the same question, plus the two-study comparison |
 
 All HTML is single-file with images embedded. Opens offline. No build step.
 
