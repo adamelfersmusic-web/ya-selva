@@ -1,6 +1,6 @@
 # Studio Fabric Spec — the textile shell
 
-Spec. 2026-08-29.
+Spec. 2026-09-01.
 
 Buying spec for the fabric that lines the Ya Selva studio.
 
@@ -18,7 +18,7 @@ lighting, plants, and gear emerge.
 
 ## The base decision — ochre
 
-**Status: DECIDED. 2026-08-30. The base layer will be ochre.**
+**Status: DECIDED. 2026-09-01. The base layer will be ochre.**
 
 The all-green version is immersive, but it pushes hard toward cave / stage /
 nighttime jungle. The ochre world has more life — warmth, daylight, wood, skin,

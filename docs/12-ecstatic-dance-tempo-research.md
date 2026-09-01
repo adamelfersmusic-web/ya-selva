@@ -3,14 +3,14 @@ title: The Tempo Architecture of Ecstatic Dance
 type: external research
 source: ChatGPT Deep Research (OpenAI)
 commissioned_by: Adam Elfers
-filed: 2026-08-31
+filed: 2026-09-01
 status: raw — unedited, not verified
 project: Ya Selva
 ---
 
 # Ecstatic Dance Tempo Research
 
-**External research. Filed 2026-08-31.**
+**External research. Filed 2026-09-01.**
 
 | | |
 |---|---|
