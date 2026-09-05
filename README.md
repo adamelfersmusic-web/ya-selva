@@ -113,9 +113,14 @@ Grouped by subject. 🔒 = locked; change deliberately.
 |---|---|
 | [`ableton-ai-agent-feasibility.md`](docs/explorations/ableton-ai-agent-feasibility.md) | LLM agent on Ableton MIDI clips — technically real, MIDI-only, unproven |
 
+### `study/` — what he's learning from
+| | |
+|---|---|
+| [`drone-based-harmony-deep-research-report.md`](study/drone-based-harmony-deep-research-report.md) | deep research — functional harmony as a recent, culturally specific system; drones, modes and stable pitch fields across rāga, maqām, gamelan, kora, Aka polyphony and Appalachian old-time. **Filed byte for byte; no frontmatter by design** — see [`study/README.md`](study/README.md) |
+
 ### Awaiting placement
 
-`method/` `songs/` `market/` `study/` `writing/` are created and empty. The five
+`method/` `songs/` `market/` `writing/` are created and empty. The five
 groups still under `docs/` — rig, character, connection, brand, explorations —
 belong somewhere in them, but **CANON's index is what decides that**, and CANON
 was missing. See *Needs your ruling* in [`000_CANON.md`](000_CANON.md).

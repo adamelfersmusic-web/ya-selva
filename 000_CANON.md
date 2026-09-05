@@ -81,6 +81,7 @@ by being RUN — nothing here can be locked yet, because no night has happened.*
 | The facilitator map | [`live/the-map.md`](live/the-map.md) · [`the-map.html`](the-map.html) |
 | The distributed ensemble | [`live/the-distributed-ensemble.md`](live/the-distributed-ensemble.md) |
 | The rig — 8 docs, tiers 0–5, the field bag | [`docs/rig/`](docs/rig/) |
+| Drone-based harmony — deep research report, filed byte-for-byte | [`study/`](study/) |
 | Character — north star, archetype, references | [`docs/character/`](docs/character/) |
 | Ya Selva ⟷ BTL — connection, shared DNA, consent rule | [`docs/connection/`](docs/connection/) |
 | Brand — design system, visual style, studio fabric | [`docs/brand/`](docs/brand/) |
@@ -143,10 +144,10 @@ writing/ capture/`. Three placed themselves by exact name match:
 vision/    ✅ placed — 4 docs
 live/      ✅ placed — 4 docs
 capture/   ✅ placed — 1 raw capture, append-only
+study/     ✅ placed — 1 deep research report (drone-based harmony)
 method/    ⬜ empty
 songs/     ⬜ empty
 market/    ⬜ empty
-study/     ⬜ empty
 writing/   ⬜ empty
 ```
 
@@ -212,6 +213,10 @@ The two stale `repo_copies` pointers now resolve, and both carry a
 
 - **Frontmatter on every file:** `status` (locked|workshop|open|capture), `date`,
   and `supersedes` if it replaces something.
+  - **One standing exception:** `study/drone-based-harmony-deep-research-report.md`
+    was filed byte for byte at Adam's instruction, so it carries no frontmatter.
+    Its status, provenance and sha256 live in [`study/README.md`](study/README.md).
+    Read-only — verify with `sha256sum` rather than editing it.
 - **Never delete.** Superseded files get a banner at the top pointing to the
   replacement, and their status changed.
 - **`capture/` is append-only.** Raw dumps in Adam's voice. Never edited, never
